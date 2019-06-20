@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: pedagogy | Brandon Walsh]]></title>
+  <link href="http://walshbr.com/categories/pedagogy/atom.xml" rel="self"/>
+  <link href="http://walshbr.com/"/>
+  <updated>2019-06-20T19:28:02+00:00</updated>
+  <id>http://walshbr.com/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Brandon Walsh", "url"=>"https://twitter.com/mdo", "email"=>"walsh@virginia.edu"}]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Praxis-Oriented Introduction to Digital Pedagogy]]></title>
+    <link href="http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/"/>
+    <updated>2019-05-30T14:04:00+00:00</updated>
+    <id>http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/a-praxis-oriented-introduction-to-digital-pedagogy/">Scholars’ Lab blog</a></em></p>
+
+<p>One thing I’ve realized about the Praxis Program, our year-long, soup-to-nuts introduction to digital humanities for a cohort of doctoral students, is that it changes each year. In my first year here, these changes were a source of anxiety for me. Surely, I thought, there must be a way to systematize the program, to find a format that would be more consistent, and, thus, more sustainable. Over the last two years, however, I’ve come to view these regular tweaks as a strength of the program. Rather than being locked into what we’ve done in the past, we’re committed to re-examining our assumptions and our plans. To illustrate this, I’d like to share an example of a problem we identified and some the ways we tried to address it during the past year.</p>
+
+<p>At the end of every program, we run exit surveys with students and hold debrief conversations among the staff involved. Last year’s discussions brought up an important issue: for all of our talk about how the program is meant to be a curricular intervention in graduate studies and offer on-the-ground, hands-on training in the practical work of digital humanists, we were framing that work almost exclusively in the context of research projects. Our students left without much of a sense of digital pedagogy and what that might mean to them. Even though we encouraged students to document their process as the year went along, our emphasis on producing a digital project suggested that the work of a digital humanist is primarily project development. That might be true for a certain kind of digital humanities work, but it also leaves out so much of what these careers entail. By focusing our work in this way, we, and the students, seemed to be ignoring the strengths of the program as a teaching exercise itself.</p>
+
+<p>Having identified this issue, we decided to spend a month or so of the following year’s program working on a new unit that I would construct on digital pedagogy. In addition to introducing the topic, part of our goal was to create a space for other kinds of outcomes for the year. Rather than having a single group project be the primary takeaway, I wanted our students to start thinking about the year as a portfolio of experiences with lots of different materials they could point to as their own. This addition would also help address one issue we’ve consistently found with the group project - by its very nature, it involves a degree of compromise from each student in the group. If the project feels too far afield from an individual student’s research agenda, it can be difficult to sell them on why they should remain engaged in the collective work. Expanding the range of results for the students also gave us new opportunities to create moments that would speak directly to the students’ individual research interests in a clearer way than we had in past. The whole sequence took place in four sessions.</p>
+
+<p><strong>Session One - Workshopping a Workshop</strong></p>
+
+<p>I called the introductory session to the digital pedagogy unit a “Workshop on Workshops,” a title that I took from a piece <a href="https://zoeleblanc.com/">Zoe LeBlanc</a> and I have coauthored for the forthcoming <em>#DLFTeach Toolkit</em>. That upcoming piece shares the spirit of what follows here, though with a different practical and theoretical framing. Keep an eye out for that volume, which should be dropping soon.</p>
+
+<p>The assignment I gave the students was, over the course of a month, to create the structure for a ninety-minute digital humanities workshop related in some way to their own research interests. They certainly weren’t expected to know everything about the topic, but they could learn just enough to teach - just enough to teach to learn themselves. And, in an attempt to introduce them to a particular form of pedagogy that I tend to traffic in, I asked their workshop be a “low-tech, pencil and paper (ish) digital humanities workshop.” In terms of actual, tangible outcomes, at this stage I just asked they work towards having a blog post-length pitch with the idea, framing, and beginning skeleton for their session. They didn’t need to plan enough to actually give the workshop (yet! stay tuned, dear reader), but I wanted evidence that they had made significant progress in that direction. And the plan was that throughout the month we would workshop their materials together.</p>
+
+<p>I suggested pencil and paper as a constraint by way of a reading we gave the students: “<a href="https://crln.acrl.org/index.php/crlnews/article/view/16833/18427">Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework</a>” by John E. Russell and Merinda Kaye Hensley. The students read the piece, and we then opened the discussion with this quotation from it:</p>
+
+<blockquote>
+  <p>Knowing how to upload texts into a tool like Voyant does not help researchers think about what texts should be uploaded, how selecting data relates to a research question, or even what constitutes an effective research question.</p>
+</blockquote>
+
+<p>The challenge for the students was to take seriously the provocation of the article, to get beyond workshops geared towards interfaces and tools (beyond buttonology) and towards concepts and methods. In doing so, I hoped, the students would realize that they could effectively approach and teach complicated digital humanities concepts as newcomers, even if they might be otherwise unfamiliar with the tools that might often be used to address these research questions. Learning about the former would hopefully mean they felt more comfortable exploring, evaluating, and recommending these tools to others. After introducing the concept of buttonology, we reflected on past technology workshops we had attended. What did good teaching look like in those contexts? What did less successful teaching look like? Was buttonology a concept or experience they had encountered before, even if they did not have a name for it?</p>
+
+<p>We then got specific. In order to set the stage for this exploration, I modeled an example workshop for them by giving an introduction to sentiment analysis using pencil and paper. I’ve written about <a href="http://walshbr.com/blog/ways-to-read/">this particular workshop at length</a>, so I won’t fully rehash the approach. Suffice it to say that I introduced the concept of sentiment analysis, asked the students to mark up by hand a passage for positive and negative polarity, and then used the resultant discussion to surface many of the underlying, humanistic issues with the methodology.</p>
+
+<p>I’ve taught versions of this workshop in a number of contexts, but the difference here was that I approached it like something of a supervised laboratory experiment. I gave the workshop as normal, but I also described the theoretical and practical reasons behind my pedagogical choices as they took place in real time. It felt a lot like I was running two workshops simultaneously - the first was an introduction to text analysis, and the second was a higher-level conversation on the pedagogical environment and experience I conducted as I went. After the workshop ended, we took a few minutes to reflect on the teaching together. We talked about the advantages (discussion based, little room for technological failure) and disadvantages (difficult to connect it back to things they could immediately use) of the approach.</p>
+
+<p>This mix of practical experience and theoretical reflection would come to be crucial in the coming months as we continued the exercise. With this initial workshop as a model, I challenged the students to aim for a similar outcome of their own from the unit. To get to that point, the following sessions would walk the students through a series of scaffolded exercises meant to draw them from point A to point Z. The follow-up assignment leading into the next session was for the students to reflect on their own, discipline-specific research interests. The students need only do some soul searching and come in with two or three large interventions that their dissertation projects made or, if they weren’t at that point in their programs yet, that they were interested in exploring as graduate students.</p>
+
+<p><strong>Session Two - General research interests</strong></p>
+
+<p>When we reconvened, we asked questions of each other to learn more about our individual research interests, and we offered some points of connection to larger digital humanities topics. By now the students had begun to gather some sense of the larger field, so they had developed the ability to say things like “You’re interested in textual editing? That reminds me of TEI, which we learned about a couple weeks ago.” They might not have felt prepared to go much deeper, but that was fine at this stage. I just wanted them to get things on the table.</p>
+
+<p>In preparation for our next session, I asked the students to explore <em>Digital Pedagogy in the Humanities: Concepts, Models, and Experiments</em>, a fantastic collection of different activities and statements drawing from a wide variety of different areas. I often suggest the collection as an entry point for people interested in learning about DH but who haven’t found their own clearly defined entry point yet. With an eye to their own stated research interests, I asked them to select one or two sections of the volume to explore at length.</p>
+
+<p><strong>Session Three - General DH interests</strong></p>
+
+<p>In this session, we used the <em>Digital Pedagogy</em> volume as a bridge to help narrow each student’s focus within digital humanities. We went around the table and had each student share what they had explored and how it related to their research interests. We started to broach basic questions of pedagogy as well - what could they imagine being engaging to students about the topic? What would likely be difficult to grasp? How might the students address these issues?</p>
+
+<p>Besides offering each of them a chance to think about their own interests, sharing and workshopping for each other meant that the students were also getting a lot of exposure to areas <em>beyond</em> their own interests. Our fellowship cohorts have six people in them, so they were getting a crash course in five topics outside their own field. This general approach guides much of Praxis - we frequently pair a deep dive into one subject or method with broad exposure to a variety of areas. The follow-up work from this session was to continue to narrow. The students had moved from disciplinary interests to DH areas, and now I wanted them to take the final step. I asked them to think through how they would teach something about this subject area to newcomers.</p>
+
+<p><strong>Session Four - Specific, Teachable DH Workshop Ideas</strong></p>
+
+<p>In the last session, the students shared their specific ideas for introductory digital humanities workshops with the group and offered feedback for one another. I continued to broach pedagogical issues, but the students were also quite good at flagging potential problems for each other. They gave strong feedback and asked good questions of each other:</p>
+
+<ul>
+  <li>What were the goals of the session?</li>
+  <li>What seemed the most challenging for the instructor? What were potential pitfalls?</li>
+  <li>Does the instructor seem to be planning too much?</li>
+</ul>
+
+<p>With this feedback in mind, the students had one last chance to re-conceive of their work before delivering what, at the time, felt like their final outcomes. Several of the students wound up posting their workshop ideas to the blog. If you’re interested in seeing what they came up with check out the posts below:</p>
+
+<ul>
+  <li><a href="https://scholarslab.lib.virginia.edu/blog/sounding-scholarship-a-workshop-on-making-your-research-sing/">Sounding Scholarship: A Workshop on Making Your Research Sing</a></li>
+  <li><a href="https://scholarslab.lib.virginia.edu/blog/string-theory-or-lets-explore-social-networks-with-string/">String Theory, or: Let’s Explore Social Networks with String!</a></li>
+  <li><a href="https://scholarslab.lib.virginia.edu/blog/teaching-transcription-and-secretly-metaphysics/">Teaching Transcription (and Secretly Metaphysics)</a></li>
+</ul>
+
+<p>A general interest in networks in early American history found its way into a workshop on network analysis using string and rope. An interest in textual criticism lead to a workshop on digital editing and transcription. This certainly isn’t the only or best way to introduce students to digital pedagogy. I’ve already prepared a few changes for next year, including asking students to read more theory and readings to go along with the work they’re developing. But, all in all, I think the unit on pedagogy was a success. We had new conversations that hadn’t been a part of Praxis in the past, and it felt as though the shift towards teaching brought out the voices of students who were quieter at other parts of the process. The students also came away with a professionally legible piece they could add to their portfolios, and I felt they were better able to speak to the pedagogical intervention the program itself was trying to make.</p>
+
+<p>As I had originally conceived it, the unit on digital pedagogy ended there. But it turns out the students were <em>really</em> excited about the work they had done and wanted to actually teach the workshops for a live audience. We wanted to honor that energy, so we unexpectedly gave the digital pedagogy unit a second life in the spring semester. I’ll write a second post that will describe that real-life road-testing soon.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thirteen Oblique Strategies for Digital Pedagogy]]></title>
+    <link href="http://walshbr.com/blog/oblique-digital-pedagogy/"/>
+    <updated>2019-04-25T09:03:00+00:00</updated>
+    <id>http://walshbr.com/blog/oblique-digital-pedagogy</id>
+    <content type="html"><![CDATA[<p><img src="/assets/images/oblique/oblique.jpg" alt="Oblique Strategies card and deck" style="max-height:50%; margin-left: auto; margin-right:auto;" /></p>
+
+<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/thirteen-oblique-strategies-for-digital-pedagogy/">Scholars’ Lab blog</a></em></p>
+
+<p>When I sat down to write this post I had no ideas. That’s probably inevitable, given the year of blogging challenge that we’re undertaking in the Scholars’ Lab. The whole point is to write often and frequently, that there is value in a steady stream of thoughts rather than waiting for the perfect blog post, and that regular writing makes the whole thing easier. Still, all those good intentions didn’t help me as I struggled to put text to blank page. As I often do in those situations I got out a deck of cards and started playing.</p>
+
+<p>I’ve been obsessed with <a href="http://www.rtqe.net/ObliqueStrategies/"><em>Oblique Strategies</em></a> for years now. If you’re not familiar, <em>Oblique Strategies</em> is a deck of cards published by Brian Eno and Peter Schmidt that aims to offer short, pithy suggestions for getting around creative dilemmas. The idea behind them is that the serendipity of drawing a mysterious phrase from the deck will help disrupt any blocks you might have moving forward. I’ve got a stack of them that I keep on my desk, and it’s a comfort to know that I’ve always got a wrench to throw in the gears at any given time. This morning as I flipped through the deck for inspiration these were the cards that came up first:</p>
+
+<ul>
+  <li>When is it for?</li>
+  <li>Use an old idea</li>
+  <li>Turn it upside down</li>
+  <li>Once the search is in progress, something will be found</li>
+  <li>Humanize something free of error</li>
+</ul>
+
+<p>A lot there! Surely, somewhere in there, I could find material for a successful blog post on digital pedagogy, the subject I’ve been trying to focus on with these regular posts. I did, and I could. But the activity interested me more: how could these cards - the idea of them more so than any one phrase on them - inform teaching within the field of DH more generally?</p>
+
+<p>Of course, I’m not the first one to think about how <em>Oblique Strategies</em> might apply to DH. Mark Sample’s keynote for the first annual <a href="https://iliads.org/">Institute for Liberal Arts Digital Scholarship</a> took up this topic. In “Your Mistake was a Vital Connection: Oblique Strategies for the Digital Humanities,” Sample does a fantastic job articulating the potential for the deck to inspire digital humanities research and pedagogy. Sample advocates not just using the deck as a means to an end - he suggests making serendipity the process and outcome itself. The deck can be quirky way to step over difficulty and get back to the serious business of doing work, but it can also offer a reconsideration of what the work could look like in the first place.</p>
+
+<p>Sample frames using <em>Oblique Strategies</em> in DH research and pedagogy as a question of embracing serendipity as a methodology. This seems to me to be right and correct, but his piece also makes me want to think further about how <em>Oblique Strategies</em> might offer ways for thinking through digital pedagogy in particular. Besides shuffling up any of those cards and thinking about any specific aphorism’s applicability to teaching in a DH context, what might a larger approach to digital pedagogy look like when informed by oblique strategies? Sample offers serendipity as a way into the question, but this is only one to think about the cards. After all, embracing chance as a methodology involves releasing something else - control.</p>
+
+<p>Take the way Sample offers the same question I just posed: “How might oblique strategies not only be another way to work in general, but specifically, another way to work with the digital scholarship and pedagogy we might otherwise more comfortably approach head-on, as Brian Eno put it.” This reading frames use of the cards as a question of directionality but also of power - rather than assert power, the cards seem to say, give yourself over to the whims of chance, let your creative faculties engage, and step in from the side. In order to play the game as invited by <em>Oblique Strategies</em>, you have to first accept you might not have all the answers.</p>
+
+<p>For me, this question of authority is the clearest link between the deck and how I might apply it in the DH classroom. For me, good digital humanities teaching is always about unsettling authority in the classroom. When <a href="http://walshbr.com/blog/co-teaching/">digital humanists co-teach courses</a>, they model how no one person has all the answers. When we encourage process and reflections on failure as important scholarly outputs, we encourage students to give themselves over to a more humane understanding of research. When we counsel students on imposter syndrome, we directly encounter the idea of the authority. There are more specific, personal implementations for me as well. When I run a class, I tend to ask more questions than I offer answers, and my ultimate goal is for the students to recognize that their own contributions to discussion can often be more valuable than mine.</p>
+
+<p>All of this makes me want to ask: how can <em>Oblique Strategies</em> encourage a more student-centered pedagogy? How could we use the ethos of the cards to disrupt vectors of power in the classroom and create a more meaningful, inclusive teaching environment? What about this would be specific to <em>digital</em> pedagogy? In the spirit of what I’ve described above, I won’t offer answers (yours would be as meaningful as mine). Towards the end of Sample’s blog post he shares together a <a href="http://www.samplereality.com/obliquedh/obliquedh.html">playful tool for generating your own oblique strategies for digital humanities</a>. I thought I might take a similar approach, offering a few elliptical statements on how we might approach digital pedagogy obliquely in the aphoristic style of <em>Oblique Strategies</em>. I had originally intended to give brief glosses about how they might be interpreted, but I think that gets away from the spirit of the thing. In a riff on Wallace Stevens’ “Thirteen Ways of Looking at a Blackbird,” I’ll give thirteen, lest any one appear to be more important than the others:</p>
+
+<p>Thirteen Oblique Strategies for Digital Pedagogy</p>
+
+<ol>
+  <li>Create &lt;-&gt; consume</li>
+  <li>Analog digital</li>
+  <li>Interaction over interface</li>
+  <li>Displace authority</li>
+  <li>Questions</li>
+  <li>Allow for gaps</li>
+  <li>Process product</li>
+  <li>People first</li>
+  <li>Iterate</li>
+  <li>Cultivate imposterdom</li>
+  <li>Design Design</li>
+  <li>Can you fail?</li>
+  <li>Disrupt / connect</li>
+</ol>
+
+<p>Of course, maybe the best oblique strategy would be to hand the students a blank deck with some colored pencils and ask them to draw for you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What's a Pedagogy, and How Do I Find Mine?]]></title>
+    <link href="http://walshbr.com/blog/whats-a-pedagogy/"/>
+    <updated>2019-03-28T05:26:00+00:00</updated>
+    <id>http://walshbr.com/blog/whats-a-pedagogy</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/whats-a-pedagogy-and-how-do-i-find-mine/">Scholars’ Lab blog</a></em></p>
+
+<p>As part of the Scholars’ Lab’s year of blogging, Amanda asked me to write a little about my pedagogy and things that have helped me find it. When someone asks me to do such a thing, I always think about this poll that Jesse Stommel put out on Twitter about pedagogical training in graduate programs:</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear higher education teachers, a poll. Answer below, reply with stories, and pass along. <br /><br />How much training in teaching or pedagogy was/is included in your graduate program?</p>&mdash; Jesse Stommel (@Jessifer) <a href="https://twitter.com/Jessifer/status/996355913756893184?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>I consider my own background as falling under the “basically nothing” category. My program did have a single semester course for pedagogical training, but for a variety of administrative reasons, it was possible to slip through the cracks and start teaching without any formal training. This is not to say there was no teaching <em>support</em> - we did have the help of a faculty mentor while serving as a teaching assistant, and we graduate students had each other. But that kind of catch-as-catch-can approach to pedagogical training left me with what felt like a very spotty teaching background and loads of imposter syndrome.</p>
+
+<p>So, in some ways, this post is a letter to myself from eight years ago. It talks about steps I’ve taken to develop a stronger sense of myself as a teacher. It’s worth noting at the outset here that teaching happens in many shapes and sizes - courses, workshops, weeklong institutes, one-on-one mentoring, etc. Similarly, your pedagogy itself manifests in a variety of different ways, but it should ideally inform every decision you make about yourself as a teacher, your students, and everything in between. It’s also worth noting that these steps are more truly about pedagogy generally - digital pedagogy is a related subject that overlaps with this one that merits its own discussion. But the steps below could certainly get you started thinking your way through a pedagogy in that field as well.</p>
+
+<p>Hopefully, what follows will help someone else work their way towards a more informed, aware, and critical sense of their own pedagogy. I’m still learning, and these are the steps I’m taking to do it.</p>
+
+<h2 id="whats-a-pedagogy">What’s a Pedagogy?</h2>
+
+<p>When I put together my first syllabus, I had no idea where to start. I didn’t even really know what the genre looked like, despite having seen syllabi many times before. So I collected a bunch of example syllabi from friends and looked at what others had done. Using these pieces, I started assembling a Frankenstein’s monster of a syllabus that, when I looked down, was eight pages long and had pages of policies, rules, and readings.</p>
+
+<p>Do these sort of things inform your teaching? Sure. Are they your pedagogy? No…or not exactly. An important first step is recognizing something that <a href="http://english.as.virginia.edu/people/profile/jes4bd">Jim Seitz</a>, UVA’s Director of Academic and Professional Writing, told me at a later date - your pedagogy is what arises out of your motivation and thinking behind every decision related to the classroom. Those rules and policies were not my pedagogy, but they were <em>expressions of it</em>. They reflected a variety of different ideas about who my students were, how I viewed the classroom, and how we would all be interacting with each other.</p>
+
+<p>Of course, when writing that initial syllabus, I didn’t know anything about all this - I was grabbing pieces that felt right without thinking too much about them. At the end of it all, I remember looking down at the resulting syllabus and thinking, “It sounds like I’m going to run this class on film musicals like it’s a police state.” So I deleted 90% of the rules and policies and started over. There was a pedagogical reason behind my doing this, but I didn’t really know it at the time. For me, discovering my own sense pedagogy has been about reclaiming agency over these sorts of impulses. I’ve learned what I care about, what I don’t, and places where I can express my vision of what teaching should be.</p>
+
+<h2 id="how-do-i-find-mine">How Do I Find Mine?</h2>
+
+<p>The first thing to know about teaching is that if you’re asking that question you’re already moving in the right direction. These steps can help.</p>
+
+<ol>
+  <li>
+    <p><strong>Think about what you’re doing.</strong> You might not realize all the different components that go into the classroom, but every one of these could merit further examination. Everything from the way you dress to the way you interact with your students to whether you sit or stand while teaching can be things to think further about. Think about all the different elements that make up <em>your</em> teaching experience.</p>
+  </li>
+  <li>
+    <p><strong>Recognize which of the things you’re doing are choices.</strong> Most teaching situations bring with them a variety of constraints. Depending on your situation, you might not be able to adjust certain elements of the classroom. Of course, these sorts of restrictions can still be worth examining more closely - you might not always be constrained in this way, and it can be useful to have deeper thoughts about what you’re doing even if you can’t change it.</p>
+  </li>
+  <li>
+    <p><strong>Work from specific to abstract.</strong> Take a look at one thing you do and try to find the principle behind it. Given the entire world of possibility, what was it that would lead you to choose to do that one thing and not any others? And then take that justification and get even more abstract - why is it so important to you? To offer one example: when I run discussion I tend to contribute more questions than I do statements. As students respond to the questions, I give more. I do this because I’m genuinely interested in what the students have to say. And I think the underlying belief here is that students, even while learning, can make important contributions to complex discussions that are at least as important as anything I can offer.</p>
+  </li>
+  <li>
+    <p><strong>Observe others teach</strong>. Growing up, you probably spent a lot of time in classrooms as a student. But the irony is that, once it became clear that <em>you</em> would do some teaching, you probably didn’t get much of a chance to see how others do it. Education programs generally have student experiences designed to address this gap, but I think it’s the case that graduate students in the humanities don’t get enough opportunities to observe others. And you can’t rely on your memories of what good and bad teaching looked like - it’s fundamentally different to be a student than to be an outsider thinking about the logistics of how it all gets put together. So ask others if you can watch them teach. While some people might be self-conscious about the activity, you’ll get some people willing to let you sit in on a class. And while you’re watching, take notes about everything from the students to the teacher to the general classroom environment. Everything can be grist for your mill.</p>
+  </li>
+  <li>
+    <p><strong>Talk with others you respect about their teaching</strong>. This point can be taken in isolation, but it works best with observing someone teach. It often works well to get context for what goes on in a given classroom session. If the instructor has a lesson plan prepared in advance, ask them to send it to you (or at least a few sentences about what they’re planning to do). After the session, ask if you can follow up to talk about what you saw. Keep in mind that you’re asking the observee to do work for you. I sometimes offer to buy coffee to sweeten the deal if necessary, though this might not be financially possible for you. You might also offer to have them observe you in turn. When talking, it can often be a good entry point into the conversation to ask them how they thought the session went. And beyond observing individual classes, you should explore whether your institution (or one nearby if you don’t have one) has a group dedicated to teaching and pedagogy whose work and conversations you can tap into.</p>
+  </li>
+  <li>
+    <p><strong>Read and learn more</strong>. Depending on your own background, this fact might get obscured, but pedagogy is an area of study - and research - like any other in academia. There are countless scholars working to advance conversations about pedagogy, and beginning to read around in the field can help you to discover where you fit in. You might start off by reading people discussing teaching as it relates to your specific field to get a general sense, but strong pedagogy frequently transcends the disciplines in which it manifests. As with any discipline, you won’t agree with everything you read. If you’re reading this, odds are you are in some way interested in how we run our student programs in the Scholars’ Lab. A pedagogical starter pack for us might look like the following:</p>
+
+    <ul>
+      <li>Paulo Freire - <em>Pedagogy of the Oppressed</em></li>
+      <li>bell hooks - <em>Teaching to Transgress</em></li>
+      <li>Cathy Davidson - <em>The New Education</em></li>
+      <li>L. Dee Fink - <em>Creating Significant Learning Experiences</em></li>
+    </ul>
+
+    <p>As with any good lit review, I find it works well to read any given piece looking what I am going to read next. I’m always looking for my next citation. So as you’re going, keep an eye out for any compelling citations that might offer good opportunities for digging deeper into the conversation in the future.</p>
+  </li>
+  <li>
+    <p><strong>Where to Start</strong>. You might try a thought experiment: imagine that your supervisor has asked you to take on a new course/workshop/student. In short, you’ll be doing exactly what you currently do but with one crucial difference - they will dictate everything about your teaching. Everything will be decided for you and you will have few freedoms. But they recognize your strengths as a teacher and are willing to compromise - you can bring three things over from how you used to teach. Only three - pick the most important parts of what you do. Start with the three treasured components, find the beliefs that underlie them, and you’ll be well on your way to developing a stronger sense of your pedagogy.</p>
+  </li>
+</ol>
+
+<p>Hopefully the above activities will help someone reading this think more deeply about their teaching. The above suggestions are all born out of my own experiences with pedagogical training and growth - your mileage may vary. If you have had wildly different experiences I would love to hear more about them. My last suggestion is to <strong>write your pedagogy down</strong>. These writings might take many forms. The Scholars’ Lab has tried to express our pedagogy in the form of <a href="https://scholarslab.lib.virginia.edu/student-programs-charter/">a charter</a>. You might choose to blog about it or construct a generalized teaching statement, but, whatever form you choose, writing about your teaching will help you develop a better sense of it. And that labor is not for nothing - there are a number of great venues for writing about pedagogy, and doing so can be a professionally legible activity in its own right.</p>
+
+<p>The world needs more teachers, and it needs more good thinking about teaching. Contribute yours to the conversation.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Workshop on Reading with Command Line]]></title>
+    <link href="http://walshbr.com/blog/teaching-and-reading-with-command-line/"/>
+    <updated>2019-02-27T08:14:00+00:00</updated>
+    <id>http://walshbr.com/blog/teaching-and-reading-with-command-line</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.org/blog/workshop-on-reading-with-command-line">Scholars’ Lab blog</a></em></p>
+
+<p>Alison Booth and I are co-teaching a graduate course this semester on Digital Literary Studies. As a part of the course, we’re having a series of technical workshops - command line, Python, text analysis, encoding, and markup. The scheduling worked out such that these workshops wound up being on Wednesdays, with the discussions of critical theory on digital humanities and literary method mostly on Mondays. That’s all fine and good, but I worried that neatly dividing the class out in that way would create a divide between the one day of the week when the students were actively discussing the material in the course and the other when they were mostly in hands-on workshops. Rather than having a hacking day and a yacking day, I wanted to see what I could do to create an environment for hack-yacking. So when I taught the first workshop on command line, I wanted to try something slightly different from what I normally do by making more room for discussion. I wanted to bring the Monday readings and conversations back into the Wednesday workshops.</p>
+
+<p>Teaching programming well is very difficult. An easy, low-hanging fruit way to get the material across to your students is to connect your laptop and type in front of the students, explaining your keystrokes as you go and asking them to mirror your actions. Another approach I’ve seen (and used) uses slides to do something similar - sharing code examples and interspersing theoretical concepts as you go. Both of those approaches are all to the good, but they feel a bit too much like lecturing to me. I was trained as a teacher of English literature, which means that my bread and butter is the seminar. My approach to the discussion seminar has always been to act as something of a void in the center of the class, asking questions that get the students to engage with the material and each other more than with me. Lecturing has its place, I’m sure, but it generally makes me uncomfortable and doesn’t reflect the kind of pedagogy I value. So when teaching this workshop on command line I wanted to push myself a little more to see how much discussion I could incorporate into a technical skills workshop. How could I use this experience to help the students begin to think about technology as something that they could engage critically with? as something that was not so alien from their normal work of thoughtful, critical discussion?</p>
+
+<p>My goals for the seventy-five minute session, then, were as follows:</p>
+
+<ul>
+  <li>Introduce the concept of the graphical user interface (GUI)</li>
+  <li>Introduce the concept of the command line</li>
+  <li>Give practice with the command line</li>
+  <li>Use the command line to do something that connected with the discussion we had been having elsewhere in the course</li>
+</ul>
+
+<p>The overriding concern for me was to communicate the technical skills the students needed while not making it a “watch what I type” workshop. I wanted discussion and engagement to be the main priority.</p>
+
+<p>To start off, I shared several different images of graphical user interfaces like this one.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/liewcf/14123978540" title="LENOVO Yoga Tablet 8"><img src="https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg" width="2048" height="1365" alt="LENOVO Yoga Tablet 8" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>I began by simply asking the students to describe what they saw, framing the activity as continuous with their usual practices of analyzing prose, poetry, or photographs. In the same way that any piece of a text or image can be interpreted and described, so too can technology be subjected to the same analysis. This component of the workshop was inspired by <a href="http://www.erinroseglass.com/">Erin Rose Glass</a>. When she visited the Scholars’ Lab last semester for a talk on surveillance capitalism, she asked the audience to close read the Microsoft Word interface, and I thought the move did a great job of defamiliarizing an everyday piece of technology and subjecting it to critique. In this case, I asked my students a series of questions:</p>
+
+<ul>
+  <li>What kind of assumptions does the GUI make of its users?</li>
+  <li>What kind of an experience does it want you to have?</li>
+  <li>How does it structure that experience?</li>
+  <li>What kind of audience does it have in mind?</li>
+</ul>
+
+<p>These provocations led to an interesting conversation about accessibility, design, and assumed expertise. I especially wanted the students to note how the GUI makes immediately apparent a range of options to the user. But those options are also limited. The interface sacrifices possibility for practicality, and it can never give you every possible option. This discussion set us up well for the next image I presented to them - a terminal window.</p>
+
+<p><img src="/assets/images/terminal.jpg" alt="terminal window" /></p>
+
+<p>Again, I paused for discussion, asking questions that directed the students to the lack of clearly visible options in the terminal and how this suggested an assumption that its users would have a certain level of expertise. For better or for worse, it assumes that you know what you’re doing. I could have just told the students all this, of course, but I wanted them to arrive at these ideas themselves. So I mostly framed the activity with questions and helped to direct discussion, just as I would in directing close reading of a passage in a novel. In some small way, I hoped the activity would show them that the close reading and analytical skills they developed in other English classes would still be applicable here, even though the objects of study might be different and even though they might feel a bit at sea.</p>
+
+<p>With some sense of what the command line was, the next phase of the workshop took the students through a variety of commands with the terminal. This component of the class felt the most like a typical introduction to the terminal in that I offered a command, executed it, and then we reflected on the results together. The commands we covered mostly focused on navigating the file system and adding or deleting files:</p>
+
+<ul>
+  <li>cd</li>
+  <li>ls</li>
+  <li>pwd</li>
+  <li>touch</li>
+  <li>rm</li>
+  <li>mkdir</li>
+  <li>cp</li>
+  <li>mv</li>
+  <li>man</li>
+</ul>
+
+<p>Nothing too fancy or tricky. From a practical standpoint, the students needed to get the terminal under their fingers so that they’d be prepared to work with it for the rest of the course. As preparation for this piece, we had the students work through the <a href="https://learnpythonthehardway.org/book/appendixa.html">Command Line Crash Course</a> from <a href="https://learnpythonthehardway.org/">Learn Python the Hard Way</a>. So the workshop was not their first moment experiencing the terminal, and I could review these pieces quickly before trying to engage the students further.</p>
+
+<p>One easy way to try to bridge the gap between our discussions of readings and our workshop on the terminal was to drawn in one of the texts that they had read and discussed in a previous session. Superficially, this meant that the students would at least have familiar thematic material in front of them - I selected an essay for us to work with by Katherine Bode titled “<a href="https://read.dukeupress.edu/modern-language-quarterly/article/78/1/77-106/19924">The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, toward a New Object for Data-Rich Literary History</a>.”
+The students had been reading a cluster of essays about distant and close reading, and, for our last activity together, I wanted to defamiliarize the process of reading using the command line to further that discussion. The plan was to have our students use the terminal to “read” that article in a number of different ways. At each step along the way, we stopped to reflect on the kinds of reading enabled or inhibited by the commands.</p>
+
+<p>I put the text of the article in question up on my website ahead of time so that they could easily access it. First I had the students use the curl command to copy down the text of a URL onto their computer (note that I’ve since taken this text down):</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl walshbr.com/materials/bode.txt 
+</code></pre></div></div>
+
+<p>The curl command spits the text of this page onto their screen, which lead to an interesting conversation about this as a type of reading. I asked the students to characterize the kind of reading it did or did not seem to enable. For one, they noted the lack of an ability to paginate through the text, which seemed to imply that the command was meant for readers that planned to take in the text all at once. As in, curl might be meant for machines using a text as data rather than a thing to be read in a more humanistic sense.</p>
+
+<p>To ensure that we all had the necessary materials, we grabbed that same text and sent it into a text file on our computer:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl walshbr.com/materials/bode.txt &gt; bode.txt
+</code></pre></div></div>
+
+<p>This simple command allowed us to talk about how to get web texts and pages onto your computer, gave us occasion to discuss those situations in which you would want to do so, and began a discussion about the kinds of reading possible in different interfaces for reading texts. We then moved along to a couple of different commands for getting text out of a file and onto your screen using the command line.</p>
+
+<p>First, we got all of the text at once.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cat bode.txt
+</code></pre></div></div>
+
+<p>Second, we got a version that would allow us to proceed through the text page by page.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ less bode.txt
+</code></pre></div></div>
+
+<p>These commands led to some good reflections on the embodied experience of paging through a physical book with your hands as opposed to using the space bar to do a similar activity. We also talked about the different kinds of reading that we might want to carry out, both in general and in digital literary studies. We don’t engage in texts the same way every time we use them, and these restrictive modes of reading foreground that. In one great moment, a student realized that he couldn’t get out of the interface created by the less command - “I can’t stop paging! I’m trapped in the text!”</p>
+
+<p>From there, we used the terminal to search for particular words (the word “reading” in this case):</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ grep reading bode.txt
+</code></pre></div></div>
+
+<p>And then we counted the number of times a particular word occurred in our text:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ grep reading bode.txt -c
+</code></pre></div></div>
+
+<p>By searching for particular words relevant to the themes of the text, we had a good discussion about the point at which characters and words on a page become meaningful. In particular, the students noticed that, for a computer, capitalization matters in a way that it does not for a human reading a document. They inferred the differences between tokens and types, the difference between any particular occurrence of a sequence of characters and that word as a unique vocabulary unit. In order to really find out how often the term “reading” appeared in the text, the students realized they would need to normalize everything by converting it to lowercase.</p>
+
+<p>I’ve done workshops on the terminal in the past, but this was the first one where I tailored the commands we would be practicing to the subject-matter at hand. Besides the basics of how to interact with the file system, we really only worked with commands relevant to getting and examining textual data. The workshop helped the students come to an understanding that computers read quite literally, with no context or knowledge by default. Later on, the students would find these suspicions corroborated in a reading by Johanna Drucker on “Why Distant Reading Isn’t,” where she suggests that computational reading might be the closest reading of all. Using the terminal as a point of entry into those conversations meant that the students could find their own way to these concepts. In the future I’ll keep this sort of discipline-specific approach to teaching technical skills in mind. It worked well for making the material more immediately relevant and accessible to the students than it might have been otherwise.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What is Praxis Working On?]]></title>
+    <link href="http://walshbr.com/blog/what-is-praxis-working-on/"/>
+    <updated>2019-01-10T07:32:00+00:00</updated>
+    <id>http://walshbr.com/blog/what-is-praxis-working-on</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="http://scholarslab.org/blog/what-is-praxis-working-on">Scholars’ Lab blog</a></em></p>
+
+<p>Well, that’s a wrap. The fall semester is done, and 2019 is getting started. Actually, when I first started drafting this post the <em>previous</em> spring semester had just finished wrapping as well. This post has been sitting in my drafts folder since spring of 2018, so I wanted to try to push this out before another semester flew by.</p>
+
+<p>At the end of the spring 2018 semester, the Praxis students presented reveal.scholarslab.org to an utterly packed house, which meant that the first full cycle of Scholars’ Lab student programs under my watch had taken place. It feels like I just got here, but, as I like to mark milestones, it felt worth reflecting on a few lessons from the last year (and then some). In addition, I’ve found myself often describing a few basic theoretical and practical tensions at the heart of our fellowship programs to anyone who is interested in what we do, so it seems worth writing down my thoughts on them in a wider, more public forum. This post, then, will aim to do both of those things by offering a bit of a glimpse into the history of one of our programs and the thinking behind it. In particular, I’ll talk about the line we try to walk between student-centered learning and project-centered learning. I’ll be talking about what Praxis works on each year and how we go about picking that project. Because, frankly, the questions about our programs that I’ve gotten most often over the course of the last year are “what are they?” and “what are they working on?”</p>
+
+<p>Some background and practical considerations. The Praxis Program is just one of our fellowship programs each year, but, as it serves more students than our programs, I think it’s safe to say that it takes up the most mental energy of everyone in the lab. Each year, we take six humanities students from various departments around the University (this year we have our first Architecture School student!) and offer them a soup-to-nuts introduction to digital humanities work. The fellowship asks for about ten hours of attention from the students each week in the form of a weekly meeting or two and collaborative work in a number of forms. The students are funded to participate in it by way of reducing their teaching obligations for the year - the students get time to learn and grow together as a result of the reduced course load. You can read more about the program on <a href="http://praxis.scholarslab.org/about/">the project website</a>, <a href="http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/realigning-digital-humanities-training-the-praxis-program-at-the-scholars-lab.1.html">the DH abstract for the poster the team presented when the project first launched</a>, or in this <a href="http://scholarslab.org/grad-student-research/announcing-the-praxis-program/">introductory post by Bethany Nowviskie</a>. The program draws together several strands of pedagogical theory, a sampling of which might include Paulo Freire’s <em>Pedagogy of the Oppressed</em>, the <a href="http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/">UCLA Student Collaborator’s Bill of Rights</a>, or many of the writings of bell hooks.</p>
+
+<p>We’ve published a pair of charters outlining the pedagogical obligations we feel towards our students, both in the <a href="http://praxis.scholarslab.org/praxis-program-charter">Praxis program</a> and in <a href="http://scholarslab.org/student-programs-charter/">our programs more generally</a>. (These charters didn’t exist when I first drafted this post in the spring of 2018. That’s one benefit of waiting seven months to finalize a post!) Check those documents out for general statements about our belief in public, process-driven pedagogy. But those statements won’t illuminate much about the day-to-day of what life is like for our students in our programs. Nor will they necessarily illuminate much about the logistics of how we carry out a fellowship year. So I thought I would share a little more about those specifics - what our students work on and how they get there. After all, the theory informs the doing, and the writing of those documents helped shape our programs this year.</p>
+
+<p>One thing I’ve been thinking a lot about this year is the primary vehicle by which we facilitate the learning process in the Praxis program - the project. I usually put it this way: Praxis is a year-long fellowship that has a distinctive shift in feel between the fall and spring semesters. In the fall, there is still a fair amount of the Scholars’ Lab staff in the front of the class leading seminars or giving workshops to the students, as you might expect from a class where they will be learning a lot of digital methods. But we also share a range of strategies and techniques that aim to give a high-level look at all the different components of digital work - intellectual property, project scoping and management, collaboration planning, and way more (you can check out the common curriculum <a href="http://praxis.scholarslab.org/curriculum/">here</a>). Most importantly, we help them think about what they’ll be doing together during the year: we help them design and scope a project that they’ll be working on in the spring, when we shift to much more of a hands-on, side-by-side, lab approach to the learning experience. While we still think a lot in the spring, our day-to-day work is mostly taken up working together to make the thing happen. We try to give the students power over the process all year long, but this is really evident in the spring when we put them in charge as much as possible.</p>
+
+<p>Folks interested in Praxis often ask what the students are working on because, at the end of the day, people know that we want them to build <em>something</em>. But how they get to it has changed significantly over time. In <a href="http://nowviskie.org/2011/praxis-and-prism/">another post</a> by Nowviskie, she mentions that “It’s just too much to ask that students new to digital humanities work invent a meaningful project from whole cloth on Day 1 of the program — especially one that, we hope, will make a meaningful intervention in the current scene of DH research and practice.”</p>
+
+<p>I think it’s worth sharing a little Praxis history here. (I should say at the outset of this discussion that, while I was a student in the second cohort of the program, I was never really privy to the pedagogical conversations that drove the fellowship. So take all of these observations from the outside with a grain of salt, except for the last year or so where I am happy to take any blame.) The compromise in the first few years was to give the students a piece of vaporware or a project already in progress and, within those restrictions, ask the students to make this kernel of an idea their own and to develop their own intellectual contribution based on it. The first Praxis cohort developed <a href="http://prism.scholarslab.org">Prism</a>, a digital version of a vaporware experiment in collaborative textual analysis and visualization developed by Nowviskie and SpecLab. The second cohort extended Prism, adding in new features based on their own interests and priorities, with the goal of taking the project from a proof of concept to a tool that was more open and usable. Accordingly, Prism has seen significant uptake, particularly in K-12 classrooms as a pedagogical tool for teaching a variety of reading and interpretive skills.</p>
+
+<p>In its third year, the program took a similar approach to developing a project - the staff tasked the Praxis cohort with developing a new version of <a href="http://ivanhoe.scholarslab.org/">Ivanhoe</a>, another older Scholars’ Lab project that was an exercise in collaborative interpretation and literary intervention, that would run as a WordPress theme. The following year, the fourth cohort of students redesigned Ivanhoe further to allow multimedia contributions.</p>
+
+<p>So, in one sense, the first four years of the Praxis program were heavily directed - the core project was given, but the intellectual framing, stakes, and intervention itself were left to the students. Because of this, the students were saved the difficult task of making a from-scratch contribution to a field they were just learning for the first time. The students still maintained ownership of the project, but the initial guidance meant that the projects were able to go quite far for student projects. Each project ran on a two-year cycle, which meant that one cohort was tasked with the heavy lifting of developing a first pass at the digital project while the next would inherit the intellectual weight of conversations they hadn’t participated in. Each cohort got different glimpses of the lifecycle of a digital project.</p>
+
+<p>The next three years were even more student-directed. The students still were given wide latitude over the kinds of skills they took away and the nature of the project that developed at the end, but different productive constraints were used to guide the work of the group. The staff stepped back a bit more in years five and six of the program and did not explicitly give a project to the students. Rather than being given an explicit project, the students were given an idea or topic. In each case, the students were told to think about the concept of time and develop a project that would intervene in our understanding of it. Naturally, the slightly more free-form approach meant that the students had the leeway to take wildly different approaches. The fifth cohort developed <a href="http://clockwork.scholarslab.org/">ClockWork</a>, which used sonification to grapple with the monetary measurements of time. The sixth cohort took time as encouragement to think about social media as the best representation of the now, and these investigations led them to think about the <a href="http://dashamerikan.scholarslab.org">social media ecologies of the Kardashian family</a>. In the seventh year, my first in charge of the program, we stepped back even more, leaving off the time prompt for the students. We came in with a light plan but really followed student interests where they wanted to go, giving broad freedom over the direction of the program and the project. The result was <a href="http://reveal.scholarslab.org/">UVA Reveal: Augmenting the University</a>, a project that used augmented reality to layer contextual information onto public spaces to challenge public narratives of contested spaces. Ironically, even though time wasn’t the students’ focus, the project still deeply engaged in questions of the past, the present, and the stories we tell ourselves about both.</p>
+
+<p>For the eighth, current year of the program we’ve instituted some significant changes to things that I will write more about in the future. But relevant to this discussion about freedom vs. constraint is that we returned somewhat to the roots of the program, providing the students with a fairly well defined kernel of an idea to make their own and implement in their own way. Students this year are working with the library’s Director of Information Policy to develop a project that engages with the ramifications of January 1st, 2019, when new works entered the public domain for the first time since the passage of the 1998 Sonny Bono Copyright Extension Act. I can go on about how excited I am for it, but I’d prefer for the students to frame the intervention themselves when they’re ready to do so. Keep an eye out for those insights!</p>
+
+<p>Therefore, in answer to the question “What is Praxis working on?” I’d say: the students have worked on many different types of things over the years.</p>
+
+<p>I think, however, that people ask what we’re engaged with presently not just to get a sense of the final product, but also in an attempt to better understand our process. Because no matter how public and transparent we try to be, the program is always happening for a small group of students behind doors that, if not closed, are cracked only slightly (we’re a library after all).</p>
+
+<p>In that case, I have a slightly more boring answer to the question that I think really gets at the heart of the program.</p>
+
+<p>What is Praxis working on?</p>
+
+<p>We’re working on it.</p>
+
+<p>The truth is we could have the students work on pretty much anything. The discussions would change, and the interventions into the scholarly conversations might be more or less incisive. But the built project is only part of the equation for us. And as <a href="http://scholarslab.org/charter/">the Scholars’ Lab charter</a> states, the development of our people is at least as important as the projects or products themselves. The <em>thing</em> the students work on is less important than what that object can do in the service of the larger group. Our real aim is to build up the students as confident, conversant scholar-practitioners of digital method.</p>
+
+<p>Praxis can be difficult to describe because it changes every year, and that’s by design. The content of the project changes, sure, and the students necessarily change. But the staff also changes - the lab has had a lot of turnover since Praxis began. I’m now the third or fourth person to take charge of Praxis, and we all have different ways of running things and conceptualizing the program. Rather than think of the program as a search for the perfect approach to project-based pedagogy, in the last year I’ve really come to see its evolving nature as a strength. When I’m asked what is Praxis working on, I’m led to think about how we’re constantly trying to reshape our fundamental assumptions, re-evaluating the process, and making changes based on the needs of our students. The staff are always working on the fellowship program itself.</p>
+
+<p>Because process is everything. <em>How</em> we have students approach the work can really set the students up for success for failure-even more than the nature of the project itself. In the Scholars’ Lab, we’re committed to putting the students in charge of their education. But doing so can take a lot of different shapes, and Praxis has led to a lot of questions for me in the last year - questions that have been going round in my head all year and that have drifted outwards in this post. What are our limits at the lab in how design the student experience? How free can we be? How constrained? I’ve taken to jokingly describing the Praxis program as a riff on the tagline of the old MTV show <em>Real World</em> - “seven strangers picked to live in a house.” Except, in our case, we have six strangers picked to work on a project together. Are we setting them up for drama worthy of reality TV or for transformative learning experiences?</p>
+
+<p>What is Praxis working on right now?</p>
+
+<p>We’re working on being better. More on that soon!</p>
+]]></content>
+  </entry>
+  
+</feed>

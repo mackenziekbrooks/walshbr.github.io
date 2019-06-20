@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Brandon Walsh</title>
+ <link href="http://walshbr.com/atom.xml" rel="self"/>
+ <link href="http://walshbr.com/"/>
+ <updated>2019-06-20T19:28:02+00:00</updated>
+ <id>http://walshbr.com/</id>
+ <author>
+   <name>Brandon Walsh</name>
+   <email>walsh@virginia.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>A Praxis-Oriented Introduction to Digital Pedagogy</title>
+   <link href="http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy/"/>
+   <updated>2019-05-30T14:04:00+00:00</updated>
+   <id>http://walshbr.com/blog/a-praxis-oriented-introduction-to-digital-pedagogy</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Crossposted to the &lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/a-praxis-oriented-introduction-to-digital-pedagogy/&quot;&gt;Scholars’ Lab blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing I’ve realized about the Praxis Program, our year-long, soup-to-nuts introduction to digital humanities for a cohort of doctoral students, is that it changes each year. In my first year here, these changes were a source of anxiety for me. Surely, I thought, there must be a way to systematize the program, to find a format that would be more consistent, and, thus, more sustainable. Over the last two years, however, I’ve come to view these regular tweaks as a strength of the program. Rather than being locked into what we’ve done in the past, we’re committed to re-examining our assumptions and our plans. To illustrate this, I’d like to share an example of a problem we identified and some the ways we tried to address it during the past year.&lt;/p&gt;
+
+&lt;p&gt;At the end of every program, we run exit surveys with students and hold debrief conversations among the staff involved. Last year’s discussions brought up an important issue: for all of our talk about how the program is meant to be a curricular intervention in graduate studies and offer on-the-ground, hands-on training in the practical work of digital humanists, we were framing that work almost exclusively in the context of research projects. Our students left without much of a sense of digital pedagogy and what that might mean to them. Even though we encouraged students to document their process as the year went along, our emphasis on producing a digital project suggested that the work of a digital humanist is primarily project development. That might be true for a certain kind of digital humanities work, but it also leaves out so much of what these careers entail. By focusing our work in this way, we, and the students, seemed to be ignoring the strengths of the program as a teaching exercise itself.&lt;/p&gt;
+
+&lt;p&gt;Having identified this issue, we decided to spend a month or so of the following year’s program working on a new unit that I would construct on digital pedagogy. In addition to introducing the topic, part of our goal was to create a space for other kinds of outcomes for the year. Rather than having a single group project be the primary takeaway, I wanted our students to start thinking about the year as a portfolio of experiences with lots of different materials they could point to as their own. This addition would also help address one issue we’ve consistently found with the group project - by its very nature, it involves a degree of compromise from each student in the group. If the project feels too far afield from an individual student’s research agenda, it can be difficult to sell them on why they should remain engaged in the collective work. Expanding the range of results for the students also gave us new opportunities to create moments that would speak directly to the students’ individual research interests in a clearer way than we had in past. The whole sequence took place in four sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session One - Workshopping a Workshop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I called the introductory session to the digital pedagogy unit a “Workshop on Workshops,” a title that I took from a piece &lt;a href=&quot;https://zoeleblanc.com/&quot;&gt;Zoe LeBlanc&lt;/a&gt; and I have coauthored for the forthcoming &lt;em&gt;#DLFTeach Toolkit&lt;/em&gt;. That upcoming piece shares the spirit of what follows here, though with a different practical and theoretical framing. Keep an eye out for that volume, which should be dropping soon.&lt;/p&gt;
+
+&lt;p&gt;The assignment I gave the students was, over the course of a month, to create the structure for a ninety-minute digital humanities workshop related in some way to their own research interests. They certainly weren’t expected to know everything about the topic, but they could learn just enough to teach - just enough to teach to learn themselves. And, in an attempt to introduce them to a particular form of pedagogy that I tend to traffic in, I asked their workshop be a “low-tech, pencil and paper (ish) digital humanities workshop.” In terms of actual, tangible outcomes, at this stage I just asked they work towards having a blog post-length pitch with the idea, framing, and beginning skeleton for their session. They didn’t need to plan enough to actually give the workshop (yet! stay tuned, dear reader), but I wanted evidence that they had made significant progress in that direction. And the plan was that throughout the month we would workshop their materials together.&lt;/p&gt;
+
+&lt;p&gt;I suggested pencil and paper as a constraint by way of a reading we gave the students: “&lt;a href=&quot;https://crln.acrl.org/index.php/crlnews/article/view/16833/18427&quot;&gt;Beyond Buttonology: Digital Humanities, Digital Pedagogy, and the ACRL Framework&lt;/a&gt;” by John E. Russell and Merinda Kaye Hensley. The students read the piece, and we then opened the discussion with this quotation from it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Knowing how to upload texts into a tool like Voyant does not help researchers think about what texts should be uploaded, how selecting data relates to a research question, or even what constitutes an effective research question.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The challenge for the students was to take seriously the provocation of the article, to get beyond workshops geared towards interfaces and tools (beyond buttonology) and towards concepts and methods. In doing so, I hoped, the students would realize that they could effectively approach and teach complicated digital humanities concepts as newcomers, even if they might be otherwise unfamiliar with the tools that might often be used to address these research questions. Learning about the former would hopefully mean they felt more comfortable exploring, evaluating, and recommending these tools to others. After introducing the concept of buttonology, we reflected on past technology workshops we had attended. What did good teaching look like in those contexts? What did less successful teaching look like? Was buttonology a concept or experience they had encountered before, even if they did not have a name for it?&lt;/p&gt;
+
+&lt;p&gt;We then got specific. In order to set the stage for this exploration, I modeled an example workshop for them by giving an introduction to sentiment analysis using pencil and paper. I’ve written about &lt;a href=&quot;http://walshbr.com/blog/ways-to-read/&quot;&gt;this particular workshop at length&lt;/a&gt;, so I won’t fully rehash the approach. Suffice it to say that I introduced the concept of sentiment analysis, asked the students to mark up by hand a passage for positive and negative polarity, and then used the resultant discussion to surface many of the underlying, humanistic issues with the methodology.&lt;/p&gt;
+
+&lt;p&gt;I’ve taught versions of this workshop in a number of contexts, but the difference here was that I approached it like something of a supervised laboratory experiment. I gave the workshop as normal, but I also described the theoretical and practical reasons behind my pedagogical choices as they took place in real time. It felt a lot like I was running two workshops simultaneously - the first was an introduction to text analysis, and the second was a higher-level conversation on the pedagogical environment and experience I conducted as I went. After the workshop ended, we took a few minutes to reflect on the teaching together. We talked about the advantages (discussion based, little room for technological failure) and disadvantages (difficult to connect it back to things they could immediately use) of the approach.&lt;/p&gt;
+
+&lt;p&gt;This mix of practical experience and theoretical reflection would come to be crucial in the coming months as we continued the exercise. With this initial workshop as a model, I challenged the students to aim for a similar outcome of their own from the unit. To get to that point, the following sessions would walk the students through a series of scaffolded exercises meant to draw them from point A to point Z. The follow-up assignment leading into the next session was for the students to reflect on their own, discipline-specific research interests. The students need only do some soul searching and come in with two or three large interventions that their dissertation projects made or, if they weren’t at that point in their programs yet, that they were interested in exploring as graduate students.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Two - General research interests&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When we reconvened, we asked questions of each other to learn more about our individual research interests, and we offered some points of connection to larger digital humanities topics. By now the students had begun to gather some sense of the larger field, so they had developed the ability to say things like “You’re interested in textual editing? That reminds me of TEI, which we learned about a couple weeks ago.” They might not have felt prepared to go much deeper, but that was fine at this stage. I just wanted them to get things on the table.&lt;/p&gt;
+
+&lt;p&gt;In preparation for our next session, I asked the students to explore &lt;em&gt;Digital Pedagogy in the Humanities: Concepts, Models, and Experiments&lt;/em&gt;, a fantastic collection of different activities and statements drawing from a wide variety of different areas. I often suggest the collection as an entry point for people interested in learning about DH but who haven’t found their own clearly defined entry point yet. With an eye to their own stated research interests, I asked them to select one or two sections of the volume to explore at length.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Three - General DH interests&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this session, we used the &lt;em&gt;Digital Pedagogy&lt;/em&gt; volume as a bridge to help narrow each student’s focus within digital humanities. We went around the table and had each student share what they had explored and how it related to their research interests. We started to broach basic questions of pedagogy as well - what could they imagine being engaging to students about the topic? What would likely be difficult to grasp? How might the students address these issues?&lt;/p&gt;
+
+&lt;p&gt;Besides offering each of them a chance to think about their own interests, sharing and workshopping for each other meant that the students were also getting a lot of exposure to areas &lt;em&gt;beyond&lt;/em&gt; their own interests. Our fellowship cohorts have six people in them, so they were getting a crash course in five topics outside their own field. This general approach guides much of Praxis - we frequently pair a deep dive into one subject or method with broad exposure to a variety of areas. The follow-up work from this session was to continue to narrow. The students had moved from disciplinary interests to DH areas, and now I wanted them to take the final step. I asked them to think through how they would teach something about this subject area to newcomers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Four - Specific, Teachable DH Workshop Ideas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last session, the students shared their specific ideas for introductory digital humanities workshops with the group and offered feedback for one another. I continued to broach pedagogical issues, but the students were also quite good at flagging potential problems for each other. They gave strong feedback and asked good questions of each other:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What were the goals of the session?&lt;/li&gt;
+  &lt;li&gt;What seemed the most challenging for the instructor? What were potential pitfalls?&lt;/li&gt;
+  &lt;li&gt;Does the instructor seem to be planning too much?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this feedback in mind, the students had one last chance to re-conceive of their work before delivering what, at the time, felt like their final outcomes. Several of the students wound up posting their workshop ideas to the blog. If you’re interested in seeing what they came up with check out the posts below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/sounding-scholarship-a-workshop-on-making-your-research-sing/&quot;&gt;Sounding Scholarship: A Workshop on Making Your Research Sing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/string-theory-or-lets-explore-social-networks-with-string/&quot;&gt;String Theory, or: Let’s Explore Social Networks with String!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/teaching-transcription-and-secretly-metaphysics/&quot;&gt;Teaching Transcription (and Secretly Metaphysics)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A general interest in networks in early American history found its way into a workshop on network analysis using string and rope. An interest in textual criticism lead to a workshop on digital editing and transcription. This certainly isn’t the only or best way to introduce students to digital pedagogy. I’ve already prepared a few changes for next year, including asking students to read more theory and readings to go along with the work they’re developing. But, all in all, I think the unit on pedagogy was a success. We had new conversations that hadn’t been a part of Praxis in the past, and it felt as though the shift towards teaching brought out the voices of students who were quieter at other parts of the process. The students also came away with a professionally legible piece they could add to their portfolios, and I felt they were better able to speak to the pedagogical intervention the program itself was trying to make.&lt;/p&gt;
+
+&lt;p&gt;As I had originally conceived it, the unit on digital pedagogy ended there. But it turns out the students were &lt;em&gt;really&lt;/em&gt; excited about the work they had done and wanted to actually teach the workshops for a live audience. We wanted to honor that energy, so we unexpectedly gave the digital pedagogy unit a second life in the spring semester. I’ll write a second post that will describe that real-life road-testing soon.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thirteen Oblique Strategies for Digital Pedagogy</title>
+   <link href="http://walshbr.com/blog/oblique-digital-pedagogy/"/>
+   <updated>2019-04-25T09:03:00+00:00</updated>
+   <id>http://walshbr.com/blog/oblique-digital-pedagogy</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/oblique/oblique.jpg&quot; alt=&quot;Oblique Strategies card and deck&quot; style=&quot;max-height:50%; margin-left: auto; margin-right:auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crossposted to the &lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/thirteen-oblique-strategies-for-digital-pedagogy/&quot;&gt;Scholars’ Lab blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I sat down to write this post I had no ideas. That’s probably inevitable, given the year of blogging challenge that we’re undertaking in the Scholars’ Lab. The whole point is to write often and frequently, that there is value in a steady stream of thoughts rather than waiting for the perfect blog post, and that regular writing makes the whole thing easier. Still, all those good intentions didn’t help me as I struggled to put text to blank page. As I often do in those situations I got out a deck of cards and started playing.&lt;/p&gt;
+
+&lt;p&gt;I’ve been obsessed with &lt;a href=&quot;http://www.rtqe.net/ObliqueStrategies/&quot;&gt;&lt;em&gt;Oblique Strategies&lt;/em&gt;&lt;/a&gt; for years now. If you’re not familiar, &lt;em&gt;Oblique Strategies&lt;/em&gt; is a deck of cards published by Brian Eno and Peter Schmidt that aims to offer short, pithy suggestions for getting around creative dilemmas. The idea behind them is that the serendipity of drawing a mysterious phrase from the deck will help disrupt any blocks you might have moving forward. I’ve got a stack of them that I keep on my desk, and it’s a comfort to know that I’ve always got a wrench to throw in the gears at any given time. This morning as I flipped through the deck for inspiration these were the cards that came up first:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When is it for?&lt;/li&gt;
+  &lt;li&gt;Use an old idea&lt;/li&gt;
+  &lt;li&gt;Turn it upside down&lt;/li&gt;
+  &lt;li&gt;Once the search is in progress, something will be found&lt;/li&gt;
+  &lt;li&gt;Humanize something free of error&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lot there! Surely, somewhere in there, I could find material for a successful blog post on digital pedagogy, the subject I’ve been trying to focus on with these regular posts. I did, and I could. But the activity interested me more: how could these cards - the idea of them more so than any one phrase on them - inform teaching within the field of DH more generally?&lt;/p&gt;
+
+&lt;p&gt;Of course, I’m not the first one to think about how &lt;em&gt;Oblique Strategies&lt;/em&gt; might apply to DH. Mark Sample’s keynote for the first annual &lt;a href=&quot;https://iliads.org/&quot;&gt;Institute for Liberal Arts Digital Scholarship&lt;/a&gt; took up this topic. In “Your Mistake was a Vital Connection: Oblique Strategies for the Digital Humanities,” Sample does a fantastic job articulating the potential for the deck to inspire digital humanities research and pedagogy. Sample advocates not just using the deck as a means to an end - he suggests making serendipity the process and outcome itself. The deck can be quirky way to step over difficulty and get back to the serious business of doing work, but it can also offer a reconsideration of what the work could look like in the first place.&lt;/p&gt;
+
+&lt;p&gt;Sample frames using &lt;em&gt;Oblique Strategies&lt;/em&gt; in DH research and pedagogy as a question of embracing serendipity as a methodology. This seems to me to be right and correct, but his piece also makes me want to think further about how &lt;em&gt;Oblique Strategies&lt;/em&gt; might offer ways for thinking through digital pedagogy in particular. Besides shuffling up any of those cards and thinking about any specific aphorism’s applicability to teaching in a DH context, what might a larger approach to digital pedagogy look like when informed by oblique strategies? Sample offers serendipity as a way into the question, but this is only one to think about the cards. After all, embracing chance as a methodology involves releasing something else - control.&lt;/p&gt;
+
+&lt;p&gt;Take the way Sample offers the same question I just posed: “How might oblique strategies not only be another way to work in general, but specifically, another way to work with the digital scholarship and pedagogy we might otherwise more comfortably approach head-on, as Brian Eno put it.” This reading frames use of the cards as a question of directionality but also of power - rather than assert power, the cards seem to say, give yourself over to the whims of chance, let your creative faculties engage, and step in from the side. In order to play the game as invited by &lt;em&gt;Oblique Strategies&lt;/em&gt;, you have to first accept you might not have all the answers.&lt;/p&gt;
+
+&lt;p&gt;For me, this question of authority is the clearest link between the deck and how I might apply it in the DH classroom. For me, good digital humanities teaching is always about unsettling authority in the classroom. When &lt;a href=&quot;http://walshbr.com/blog/co-teaching/&quot;&gt;digital humanists co-teach courses&lt;/a&gt;, they model how no one person has all the answers. When we encourage process and reflections on failure as important scholarly outputs, we encourage students to give themselves over to a more humane understanding of research. When we counsel students on imposter syndrome, we directly encounter the idea of the authority. There are more specific, personal implementations for me as well. When I run a class, I tend to ask more questions than I offer answers, and my ultimate goal is for the students to recognize that their own contributions to discussion can often be more valuable than mine.&lt;/p&gt;
+
+&lt;p&gt;All of this makes me want to ask: how can &lt;em&gt;Oblique Strategies&lt;/em&gt; encourage a more student-centered pedagogy? How could we use the ethos of the cards to disrupt vectors of power in the classroom and create a more meaningful, inclusive teaching environment? What about this would be specific to &lt;em&gt;digital&lt;/em&gt; pedagogy? In the spirit of what I’ve described above, I won’t offer answers (yours would be as meaningful as mine). Towards the end of Sample’s blog post he shares together a &lt;a href=&quot;http://www.samplereality.com/obliquedh/obliquedh.html&quot;&gt;playful tool for generating your own oblique strategies for digital humanities&lt;/a&gt;. I thought I might take a similar approach, offering a few elliptical statements on how we might approach digital pedagogy obliquely in the aphoristic style of &lt;em&gt;Oblique Strategies&lt;/em&gt;. I had originally intended to give brief glosses about how they might be interpreted, but I think that gets away from the spirit of the thing. In a riff on Wallace Stevens’ “Thirteen Ways of Looking at a Blackbird,” I’ll give thirteen, lest any one appear to be more important than the others:&lt;/p&gt;
+
+&lt;p&gt;Thirteen Oblique Strategies for Digital Pedagogy&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create &amp;lt;-&amp;gt; consume&lt;/li&gt;
+  &lt;li&gt;Analog digital&lt;/li&gt;
+  &lt;li&gt;Interaction over interface&lt;/li&gt;
+  &lt;li&gt;Displace authority&lt;/li&gt;
+  &lt;li&gt;Questions&lt;/li&gt;
+  &lt;li&gt;Allow for gaps&lt;/li&gt;
+  &lt;li&gt;Process product&lt;/li&gt;
+  &lt;li&gt;People first&lt;/li&gt;
+  &lt;li&gt;Iterate&lt;/li&gt;
+  &lt;li&gt;Cultivate imposterdom&lt;/li&gt;
+  &lt;li&gt;Design Design&lt;/li&gt;
+  &lt;li&gt;Can you fail?&lt;/li&gt;
+  &lt;li&gt;Disrupt / connect&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Of course, maybe the best oblique strategy would be to hand the students a blank deck with some colored pencils and ask them to draw for you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's a Pedagogy, and How Do I Find Mine?</title>
+   <link href="http://walshbr.com/blog/whats-a-pedagogy/"/>
+   <updated>2019-03-28T05:26:00+00:00</updated>
+   <id>http://walshbr.com/blog/whats-a-pedagogy</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Crossposted to the &lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/whats-a-pedagogy-and-how-do-i-find-mine/&quot;&gt;Scholars’ Lab blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of the Scholars’ Lab’s year of blogging, Amanda asked me to write a little about my pedagogy and things that have helped me find it. When someone asks me to do such a thing, I always think about this poll that Jesse Stommel put out on Twitter about pedagogical training in graduate programs:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Dear higher education teachers, a poll. Answer below, reply with stories, and pass along. &lt;br /&gt;&lt;br /&gt;How much training in teaching or pedagogy was/is included in your graduate program?&lt;/p&gt;&amp;mdash; Jesse Stommel (@Jessifer) &lt;a href=&quot;https://twitter.com/Jessifer/status/996355913756893184?ref_src=twsrc%5Etfw&quot;&gt;May 15, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I consider my own background as falling under the “basically nothing” category. My program did have a single semester course for pedagogical training, but for a variety of administrative reasons, it was possible to slip through the cracks and start teaching without any formal training. This is not to say there was no teaching &lt;em&gt;support&lt;/em&gt; - we did have the help of a faculty mentor while serving as a teaching assistant, and we graduate students had each other. But that kind of catch-as-catch-can approach to pedagogical training left me with what felt like a very spotty teaching background and loads of imposter syndrome.&lt;/p&gt;
+
+&lt;p&gt;So, in some ways, this post is a letter to myself from eight years ago. It talks about steps I’ve taken to develop a stronger sense of myself as a teacher. It’s worth noting at the outset here that teaching happens in many shapes and sizes - courses, workshops, weeklong institutes, one-on-one mentoring, etc. Similarly, your pedagogy itself manifests in a variety of different ways, but it should ideally inform every decision you make about yourself as a teacher, your students, and everything in between. It’s also worth noting that these steps are more truly about pedagogy generally - digital pedagogy is a related subject that overlaps with this one that merits its own discussion. But the steps below could certainly get you started thinking your way through a pedagogy in that field as well.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, what follows will help someone else work their way towards a more informed, aware, and critical sense of their own pedagogy. I’m still learning, and these are the steps I’m taking to do it.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-a-pedagogy&quot;&gt;What’s a Pedagogy?&lt;/h2&gt;
+
+&lt;p&gt;When I put together my first syllabus, I had no idea where to start. I didn’t even really know what the genre looked like, despite having seen syllabi many times before. So I collected a bunch of example syllabi from friends and looked at what others had done. Using these pieces, I started assembling a Frankenstein’s monster of a syllabus that, when I looked down, was eight pages long and had pages of policies, rules, and readings.&lt;/p&gt;
+
+&lt;p&gt;Do these sort of things inform your teaching? Sure. Are they your pedagogy? No…or not exactly. An important first step is recognizing something that &lt;a href=&quot;http://english.as.virginia.edu/people/profile/jes4bd&quot;&gt;Jim Seitz&lt;/a&gt;, UVA’s Director of Academic and Professional Writing, told me at a later date - your pedagogy is what arises out of your motivation and thinking behind every decision related to the classroom. Those rules and policies were not my pedagogy, but they were &lt;em&gt;expressions of it&lt;/em&gt;. They reflected a variety of different ideas about who my students were, how I viewed the classroom, and how we would all be interacting with each other.&lt;/p&gt;
+
+&lt;p&gt;Of course, when writing that initial syllabus, I didn’t know anything about all this - I was grabbing pieces that felt right without thinking too much about them. At the end of it all, I remember looking down at the resulting syllabus and thinking, “It sounds like I’m going to run this class on film musicals like it’s a police state.” So I deleted 90% of the rules and policies and started over. There was a pedagogical reason behind my doing this, but I didn’t really know it at the time. For me, discovering my own sense pedagogy has been about reclaiming agency over these sorts of impulses. I’ve learned what I care about, what I don’t, and places where I can express my vision of what teaching should be.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-i-find-mine&quot;&gt;How Do I Find Mine?&lt;/h2&gt;
+
+&lt;p&gt;The first thing to know about teaching is that if you’re asking that question you’re already moving in the right direction. These steps can help.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Think about what you’re doing.&lt;/strong&gt; You might not realize all the different components that go into the classroom, but every one of these could merit further examination. Everything from the way you dress to the way you interact with your students to whether you sit or stand while teaching can be things to think further about. Think about all the different elements that make up &lt;em&gt;your&lt;/em&gt; teaching experience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Recognize which of the things you’re doing are choices.&lt;/strong&gt; Most teaching situations bring with them a variety of constraints. Depending on your situation, you might not be able to adjust certain elements of the classroom. Of course, these sorts of restrictions can still be worth examining more closely - you might not always be constrained in this way, and it can be useful to have deeper thoughts about what you’re doing even if you can’t change it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Work from specific to abstract.&lt;/strong&gt; Take a look at one thing you do and try to find the principle behind it. Given the entire world of possibility, what was it that would lead you to choose to do that one thing and not any others? And then take that justification and get even more abstract - why is it so important to you? To offer one example: when I run discussion I tend to contribute more questions than I do statements. As students respond to the questions, I give more. I do this because I’m genuinely interested in what the students have to say. And I think the underlying belief here is that students, even while learning, can make important contributions to complex discussions that are at least as important as anything I can offer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Observe others teach&lt;/strong&gt;. Growing up, you probably spent a lot of time in classrooms as a student. But the irony is that, once it became clear that &lt;em&gt;you&lt;/em&gt; would do some teaching, you probably didn’t get much of a chance to see how others do it. Education programs generally have student experiences designed to address this gap, but I think it’s the case that graduate students in the humanities don’t get enough opportunities to observe others. And you can’t rely on your memories of what good and bad teaching looked like - it’s fundamentally different to be a student than to be an outsider thinking about the logistics of how it all gets put together. So ask others if you can watch them teach. While some people might be self-conscious about the activity, you’ll get some people willing to let you sit in on a class. And while you’re watching, take notes about everything from the students to the teacher to the general classroom environment. Everything can be grist for your mill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Talk with others you respect about their teaching&lt;/strong&gt;. This point can be taken in isolation, but it works best with observing someone teach. It often works well to get context for what goes on in a given classroom session. If the instructor has a lesson plan prepared in advance, ask them to send it to you (or at least a few sentences about what they’re planning to do). After the session, ask if you can follow up to talk about what you saw. Keep in mind that you’re asking the observee to do work for you. I sometimes offer to buy coffee to sweeten the deal if necessary, though this might not be financially possible for you. You might also offer to have them observe you in turn. When talking, it can often be a good entry point into the conversation to ask them how they thought the session went. And beyond observing individual classes, you should explore whether your institution (or one nearby if you don’t have one) has a group dedicated to teaching and pedagogy whose work and conversations you can tap into.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Read and learn more&lt;/strong&gt;. Depending on your own background, this fact might get obscured, but pedagogy is an area of study - and research - like any other in academia. There are countless scholars working to advance conversations about pedagogy, and beginning to read around in the field can help you to discover where you fit in. You might start off by reading people discussing teaching as it relates to your specific field to get a general sense, but strong pedagogy frequently transcends the disciplines in which it manifests. As with any discipline, you won’t agree with everything you read. If you’re reading this, odds are you are in some way interested in how we run our student programs in the Scholars’ Lab. A pedagogical starter pack for us might look like the following:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Paulo Freire - &lt;em&gt;Pedagogy of the Oppressed&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;bell hooks - &lt;em&gt;Teaching to Transgress&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Cathy Davidson - &lt;em&gt;The New Education&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;L. Dee Fink - &lt;em&gt;Creating Significant Learning Experiences&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;As with any good lit review, I find it works well to read any given piece looking what I am going to read next. I’m always looking for my next citation. So as you’re going, keep an eye out for any compelling citations that might offer good opportunities for digging deeper into the conversation in the future.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Where to Start&lt;/strong&gt;. You might try a thought experiment: imagine that your supervisor has asked you to take on a new course/workshop/student. In short, you’ll be doing exactly what you currently do but with one crucial difference - they will dictate everything about your teaching. Everything will be decided for you and you will have few freedoms. But they recognize your strengths as a teacher and are willing to compromise - you can bring three things over from how you used to teach. Only three - pick the most important parts of what you do. Start with the three treasured components, find the beliefs that underlie them, and you’ll be well on your way to developing a stronger sense of your pedagogy.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hopefully the above activities will help someone reading this think more deeply about their teaching. The above suggestions are all born out of my own experiences with pedagogical training and growth - your mileage may vary. If you have had wildly different experiences I would love to hear more about them. My last suggestion is to &lt;strong&gt;write your pedagogy down&lt;/strong&gt;. These writings might take many forms. The Scholars’ Lab has tried to express our pedagogy in the form of &lt;a href=&quot;https://scholarslab.lib.virginia.edu/student-programs-charter/&quot;&gt;a charter&lt;/a&gt;. You might choose to blog about it or construct a generalized teaching statement, but, whatever form you choose, writing about your teaching will help you develop a better sense of it. And that labor is not for nothing - there are a number of great venues for writing about pedagogy, and doing so can be a professionally legible activity in its own right.&lt;/p&gt;
+
+&lt;p&gt;The world needs more teachers, and it needs more good thinking about teaching. Contribute yours to the conversation.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Workshop on Reading with Command Line</title>
+   <link href="http://walshbr.com/blog/teaching-and-reading-with-command-line/"/>
+   <updated>2019-02-27T08:14:00+00:00</updated>
+   <id>http://walshbr.com/blog/teaching-and-reading-with-command-line</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Crossposted to the &lt;a href=&quot;https://scholarslab.org/blog/workshop-on-reading-with-command-line&quot;&gt;Scholars’ Lab blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Alison Booth and I are co-teaching a graduate course this semester on Digital Literary Studies. As a part of the course, we’re having a series of technical workshops - command line, Python, text analysis, encoding, and markup. The scheduling worked out such that these workshops wound up being on Wednesdays, with the discussions of critical theory on digital humanities and literary method mostly on Mondays. That’s all fine and good, but I worried that neatly dividing the class out in that way would create a divide between the one day of the week when the students were actively discussing the material in the course and the other when they were mostly in hands-on workshops. Rather than having a hacking day and a yacking day, I wanted to see what I could do to create an environment for hack-yacking. So when I taught the first workshop on command line, I wanted to try something slightly different from what I normally do by making more room for discussion. I wanted to bring the Monday readings and conversations back into the Wednesday workshops.&lt;/p&gt;
+
+&lt;p&gt;Teaching programming well is very difficult. An easy, low-hanging fruit way to get the material across to your students is to connect your laptop and type in front of the students, explaining your keystrokes as you go and asking them to mirror your actions. Another approach I’ve seen (and used) uses slides to do something similar - sharing code examples and interspersing theoretical concepts as you go. Both of those approaches are all to the good, but they feel a bit too much like lecturing to me. I was trained as a teacher of English literature, which means that my bread and butter is the seminar. My approach to the discussion seminar has always been to act as something of a void in the center of the class, asking questions that get the students to engage with the material and each other more than with me. Lecturing has its place, I’m sure, but it generally makes me uncomfortable and doesn’t reflect the kind of pedagogy I value. So when teaching this workshop on command line I wanted to push myself a little more to see how much discussion I could incorporate into a technical skills workshop. How could I use this experience to help the students begin to think about technology as something that they could engage critically with? as something that was not so alien from their normal work of thoughtful, critical discussion?&lt;/p&gt;
+
+&lt;p&gt;My goals for the seventy-five minute session, then, were as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduce the concept of the graphical user interface (GUI)&lt;/li&gt;
+  &lt;li&gt;Introduce the concept of the command line&lt;/li&gt;
+  &lt;li&gt;Give practice with the command line&lt;/li&gt;
+  &lt;li&gt;Use the command line to do something that connected with the discussion we had been having elsewhere in the course&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The overriding concern for me was to communicate the technical skills the students needed while not making it a “watch what I type” workshop. I wanted discussion and engagement to be the main priority.&lt;/p&gt;
+
+&lt;p&gt;To start off, I shared several different images of graphical user interfaces like this one.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/liewcf/14123978540&quot; title=&quot;LENOVO Yoga Tablet 8&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg&quot; width=&quot;2048&quot; height=&quot;1365&quot; alt=&quot;LENOVO Yoga Tablet 8&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;I began by simply asking the students to describe what they saw, framing the activity as continuous with their usual practices of analyzing prose, poetry, or photographs. In the same way that any piece of a text or image can be interpreted and described, so too can technology be subjected to the same analysis. This component of the workshop was inspired by &lt;a href=&quot;http://www.erinroseglass.com/&quot;&gt;Erin Rose Glass&lt;/a&gt;. When she visited the Scholars’ Lab last semester for a talk on surveillance capitalism, she asked the audience to close read the Microsoft Word interface, and I thought the move did a great job of defamiliarizing an everyday piece of technology and subjecting it to critique. In this case, I asked my students a series of questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What kind of assumptions does the GUI make of its users?&lt;/li&gt;
+  &lt;li&gt;What kind of an experience does it want you to have?&lt;/li&gt;
+  &lt;li&gt;How does it structure that experience?&lt;/li&gt;
+  &lt;li&gt;What kind of audience does it have in mind?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These provocations led to an interesting conversation about accessibility, design, and assumed expertise. I especially wanted the students to note how the GUI makes immediately apparent a range of options to the user. But those options are also limited. The interface sacrifices possibility for practicality, and it can never give you every possible option. This discussion set us up well for the next image I presented to them - a terminal window.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/terminal.jpg&quot; alt=&quot;terminal window&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, I paused for discussion, asking questions that directed the students to the lack of clearly visible options in the terminal and how this suggested an assumption that its users would have a certain level of expertise. For better or for worse, it assumes that you know what you’re doing. I could have just told the students all this, of course, but I wanted them to arrive at these ideas themselves. So I mostly framed the activity with questions and helped to direct discussion, just as I would in directing close reading of a passage in a novel. In some small way, I hoped the activity would show them that the close reading and analytical skills they developed in other English classes would still be applicable here, even though the objects of study might be different and even though they might feel a bit at sea.&lt;/p&gt;
+
+&lt;p&gt;With some sense of what the command line was, the next phase of the workshop took the students through a variety of commands with the terminal. This component of the class felt the most like a typical introduction to the terminal in that I offered a command, executed it, and then we reflected on the results together. The commands we covered mostly focused on navigating the file system and adding or deleting files:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;cd&lt;/li&gt;
+  &lt;li&gt;ls&lt;/li&gt;
+  &lt;li&gt;pwd&lt;/li&gt;
+  &lt;li&gt;touch&lt;/li&gt;
+  &lt;li&gt;rm&lt;/li&gt;
+  &lt;li&gt;mkdir&lt;/li&gt;
+  &lt;li&gt;cp&lt;/li&gt;
+  &lt;li&gt;mv&lt;/li&gt;
+  &lt;li&gt;man&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nothing too fancy or tricky. From a practical standpoint, the students needed to get the terminal under their fingers so that they’d be prepared to work with it for the rest of the course. As preparation for this piece, we had the students work through the &lt;a href=&quot;https://learnpythonthehardway.org/book/appendixa.html&quot;&gt;Command Line Crash Course&lt;/a&gt; from &lt;a href=&quot;https://learnpythonthehardway.org/&quot;&gt;Learn Python the Hard Way&lt;/a&gt;. So the workshop was not their first moment experiencing the terminal, and I could review these pieces quickly before trying to engage the students further.&lt;/p&gt;
+
+&lt;p&gt;One easy way to try to bridge the gap between our discussions of readings and our workshop on the terminal was to drawn in one of the texts that they had read and discussed in a previous session. Superficially, this meant that the students would at least have familiar thematic material in front of them - I selected an essay for us to work with by Katherine Bode titled “&lt;a href=&quot;https://read.dukeupress.edu/modern-language-quarterly/article/78/1/77-106/19924&quot;&gt;The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, toward a New Object for Data-Rich Literary History&lt;/a&gt;.”
+The students had been reading a cluster of essays about distant and close reading, and, for our last activity together, I wanted to defamiliarize the process of reading using the command line to further that discussion. The plan was to have our students use the terminal to “read” that article in a number of different ways. At each step along the way, we stopped to reflect on the kinds of reading enabled or inhibited by the commands.&lt;/p&gt;
+
+&lt;p&gt;I put the text of the article in question up on my website ahead of time so that they could easily access it. First I had the students use the curl command to copy down the text of a URL onto their computer (note that I’ve since taken this text down):&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ curl walshbr.com/materials/bode.txt 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The curl command spits the text of this page onto their screen, which lead to an interesting conversation about this as a type of reading. I asked the students to characterize the kind of reading it did or did not seem to enable. For one, they noted the lack of an ability to paginate through the text, which seemed to imply that the command was meant for readers that planned to take in the text all at once. As in, curl might be meant for machines using a text as data rather than a thing to be read in a more humanistic sense.&lt;/p&gt;
+
+&lt;p&gt;To ensure that we all had the necessary materials, we grabbed that same text and sent it into a text file on our computer:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ curl walshbr.com/materials/bode.txt &amp;gt; bode.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This simple command allowed us to talk about how to get web texts and pages onto your computer, gave us occasion to discuss those situations in which you would want to do so, and began a discussion about the kinds of reading possible in different interfaces for reading texts. We then moved along to a couple of different commands for getting text out of a file and onto your screen using the command line.&lt;/p&gt;
+
+&lt;p&gt;First, we got all of the text at once.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cat bode.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Second, we got a version that would allow us to proceed through the text page by page.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ less bode.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;These commands led to some good reflections on the embodied experience of paging through a physical book with your hands as opposed to using the space bar to do a similar activity. We also talked about the different kinds of reading that we might want to carry out, both in general and in digital literary studies. We don’t engage in texts the same way every time we use them, and these restrictive modes of reading foreground that. In one great moment, a student realized that he couldn’t get out of the interface created by the less command - “I can’t stop paging! I’m trapped in the text!”&lt;/p&gt;
+
+&lt;p&gt;From there, we used the terminal to search for particular words (the word “reading” in this case):&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ grep reading bode.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And then we counted the number of times a particular word occurred in our text:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ grep reading bode.txt -c
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;By searching for particular words relevant to the themes of the text, we had a good discussion about the point at which characters and words on a page become meaningful. In particular, the students noticed that, for a computer, capitalization matters in a way that it does not for a human reading a document. They inferred the differences between tokens and types, the difference between any particular occurrence of a sequence of characters and that word as a unique vocabulary unit. In order to really find out how often the term “reading” appeared in the text, the students realized they would need to normalize everything by converting it to lowercase.&lt;/p&gt;
+
+&lt;p&gt;I’ve done workshops on the terminal in the past, but this was the first one where I tailored the commands we would be practicing to the subject-matter at hand. Besides the basics of how to interact with the file system, we really only worked with commands relevant to getting and examining textual data. The workshop helped the students come to an understanding that computers read quite literally, with no context or knowledge by default. Later on, the students would find these suspicions corroborated in a reading by Johanna Drucker on “Why Distant Reading Isn’t,” where she suggests that computational reading might be the closest reading of all. Using the terminal as a point of entry into those conversations meant that the students could find their own way to these concepts. In the future I’ll keep this sort of discipline-specific approach to teaching technical skills in mind. It worked well for making the material more immediately relevant and accessible to the students than it might have been otherwise.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is Praxis Working On?</title>
+   <link href="http://walshbr.com/blog/what-is-praxis-working-on/"/>
+   <updated>2019-01-10T07:32:00+00:00</updated>
+   <id>http://walshbr.com/blog/what-is-praxis-working-on</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Crossposted to the &lt;a href=&quot;http://scholarslab.org/blog/what-is-praxis-working-on&quot;&gt;Scholars’ Lab blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, that’s a wrap. The fall semester is done, and 2019 is getting started. Actually, when I first started drafting this post the &lt;em&gt;previous&lt;/em&gt; spring semester had just finished wrapping as well. This post has been sitting in my drafts folder since spring of 2018, so I wanted to try to push this out before another semester flew by.&lt;/p&gt;
+
+&lt;p&gt;At the end of the spring 2018 semester, the Praxis students presented reveal.scholarslab.org to an utterly packed house, which meant that the first full cycle of Scholars’ Lab student programs under my watch had taken place. It feels like I just got here, but, as I like to mark milestones, it felt worth reflecting on a few lessons from the last year (and then some). In addition, I’ve found myself often describing a few basic theoretical and practical tensions at the heart of our fellowship programs to anyone who is interested in what we do, so it seems worth writing down my thoughts on them in a wider, more public forum. This post, then, will aim to do both of those things by offering a bit of a glimpse into the history of one of our programs and the thinking behind it. In particular, I’ll talk about the line we try to walk between student-centered learning and project-centered learning. I’ll be talking about what Praxis works on each year and how we go about picking that project. Because, frankly, the questions about our programs that I’ve gotten most often over the course of the last year are “what are they?” and “what are they working on?”&lt;/p&gt;
+
+&lt;p&gt;Some background and practical considerations. The Praxis Program is just one of our fellowship programs each year, but, as it serves more students than our programs, I think it’s safe to say that it takes up the most mental energy of everyone in the lab. Each year, we take six humanities students from various departments around the University (this year we have our first Architecture School student!) and offer them a soup-to-nuts introduction to digital humanities work. The fellowship asks for about ten hours of attention from the students each week in the form of a weekly meeting or two and collaborative work in a number of forms. The students are funded to participate in it by way of reducing their teaching obligations for the year - the students get time to learn and grow together as a result of the reduced course load. You can read more about the program on &lt;a href=&quot;http://praxis.scholarslab.org/about/&quot;&gt;the project website&lt;/a&gt;, &lt;a href=&quot;http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/realigning-digital-humanities-training-the-praxis-program-at-the-scholars-lab.1.html&quot;&gt;the DH abstract for the poster the team presented when the project first launched&lt;/a&gt;, or in this &lt;a href=&quot;http://scholarslab.org/grad-student-research/announcing-the-praxis-program/&quot;&gt;introductory post by Bethany Nowviskie&lt;/a&gt;. The program draws together several strands of pedagogical theory, a sampling of which might include Paulo Freire’s &lt;em&gt;Pedagogy of the Oppressed&lt;/em&gt;, the &lt;a href=&quot;http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/&quot;&gt;UCLA Student Collaborator’s Bill of Rights&lt;/a&gt;, or many of the writings of bell hooks.&lt;/p&gt;
+
+&lt;p&gt;We’ve published a pair of charters outlining the pedagogical obligations we feel towards our students, both in the &lt;a href=&quot;http://praxis.scholarslab.org/praxis-program-charter&quot;&gt;Praxis program&lt;/a&gt; and in &lt;a href=&quot;http://scholarslab.org/student-programs-charter/&quot;&gt;our programs more generally&lt;/a&gt;. (These charters didn’t exist when I first drafted this post in the spring of 2018. That’s one benefit of waiting seven months to finalize a post!) Check those documents out for general statements about our belief in public, process-driven pedagogy. But those statements won’t illuminate much about the day-to-day of what life is like for our students in our programs. Nor will they necessarily illuminate much about the logistics of how we carry out a fellowship year. So I thought I would share a little more about those specifics - what our students work on and how they get there. After all, the theory informs the doing, and the writing of those documents helped shape our programs this year.&lt;/p&gt;
+
+&lt;p&gt;One thing I’ve been thinking a lot about this year is the primary vehicle by which we facilitate the learning process in the Praxis program - the project. I usually put it this way: Praxis is a year-long fellowship that has a distinctive shift in feel between the fall and spring semesters. In the fall, there is still a fair amount of the Scholars’ Lab staff in the front of the class leading seminars or giving workshops to the students, as you might expect from a class where they will be learning a lot of digital methods. But we also share a range of strategies and techniques that aim to give a high-level look at all the different components of digital work - intellectual property, project scoping and management, collaboration planning, and way more (you can check out the common curriculum &lt;a href=&quot;http://praxis.scholarslab.org/curriculum/&quot;&gt;here&lt;/a&gt;). Most importantly, we help them think about what they’ll be doing together during the year: we help them design and scope a project that they’ll be working on in the spring, when we shift to much more of a hands-on, side-by-side, lab approach to the learning experience. While we still think a lot in the spring, our day-to-day work is mostly taken up working together to make the thing happen. We try to give the students power over the process all year long, but this is really evident in the spring when we put them in charge as much as possible.&lt;/p&gt;
+
+&lt;p&gt;Folks interested in Praxis often ask what the students are working on because, at the end of the day, people know that we want them to build &lt;em&gt;something&lt;/em&gt;. But how they get to it has changed significantly over time. In &lt;a href=&quot;http://nowviskie.org/2011/praxis-and-prism/&quot;&gt;another post&lt;/a&gt; by Nowviskie, she mentions that “It’s just too much to ask that students new to digital humanities work invent a meaningful project from whole cloth on Day 1 of the program — especially one that, we hope, will make a meaningful intervention in the current scene of DH research and practice.”&lt;/p&gt;
+
+&lt;p&gt;I think it’s worth sharing a little Praxis history here. (I should say at the outset of this discussion that, while I was a student in the second cohort of the program, I was never really privy to the pedagogical conversations that drove the fellowship. So take all of these observations from the outside with a grain of salt, except for the last year or so where I am happy to take any blame.) The compromise in the first few years was to give the students a piece of vaporware or a project already in progress and, within those restrictions, ask the students to make this kernel of an idea their own and to develop their own intellectual contribution based on it. The first Praxis cohort developed &lt;a href=&quot;http://prism.scholarslab.org&quot;&gt;Prism&lt;/a&gt;, a digital version of a vaporware experiment in collaborative textual analysis and visualization developed by Nowviskie and SpecLab. The second cohort extended Prism, adding in new features based on their own interests and priorities, with the goal of taking the project from a proof of concept to a tool that was more open and usable. Accordingly, Prism has seen significant uptake, particularly in K-12 classrooms as a pedagogical tool for teaching a variety of reading and interpretive skills.&lt;/p&gt;
+
+&lt;p&gt;In its third year, the program took a similar approach to developing a project - the staff tasked the Praxis cohort with developing a new version of &lt;a href=&quot;http://ivanhoe.scholarslab.org/&quot;&gt;Ivanhoe&lt;/a&gt;, another older Scholars’ Lab project that was an exercise in collaborative interpretation and literary intervention, that would run as a WordPress theme. The following year, the fourth cohort of students redesigned Ivanhoe further to allow multimedia contributions.&lt;/p&gt;
+
+&lt;p&gt;So, in one sense, the first four years of the Praxis program were heavily directed - the core project was given, but the intellectual framing, stakes, and intervention itself were left to the students. Because of this, the students were saved the difficult task of making a from-scratch contribution to a field they were just learning for the first time. The students still maintained ownership of the project, but the initial guidance meant that the projects were able to go quite far for student projects. Each project ran on a two-year cycle, which meant that one cohort was tasked with the heavy lifting of developing a first pass at the digital project while the next would inherit the intellectual weight of conversations they hadn’t participated in. Each cohort got different glimpses of the lifecycle of a digital project.&lt;/p&gt;
+
+&lt;p&gt;The next three years were even more student-directed. The students still were given wide latitude over the kinds of skills they took away and the nature of the project that developed at the end, but different productive constraints were used to guide the work of the group. The staff stepped back a bit more in years five and six of the program and did not explicitly give a project to the students. Rather than being given an explicit project, the students were given an idea or topic. In each case, the students were told to think about the concept of time and develop a project that would intervene in our understanding of it. Naturally, the slightly more free-form approach meant that the students had the leeway to take wildly different approaches. The fifth cohort developed &lt;a href=&quot;http://clockwork.scholarslab.org/&quot;&gt;ClockWork&lt;/a&gt;, which used sonification to grapple with the monetary measurements of time. The sixth cohort took time as encouragement to think about social media as the best representation of the now, and these investigations led them to think about the &lt;a href=&quot;http://dashamerikan.scholarslab.org&quot;&gt;social media ecologies of the Kardashian family&lt;/a&gt;. In the seventh year, my first in charge of the program, we stepped back even more, leaving off the time prompt for the students. We came in with a light plan but really followed student interests where they wanted to go, giving broad freedom over the direction of the program and the project. The result was &lt;a href=&quot;http://reveal.scholarslab.org/&quot;&gt;UVA Reveal: Augmenting the University&lt;/a&gt;, a project that used augmented reality to layer contextual information onto public spaces to challenge public narratives of contested spaces. Ironically, even though time wasn’t the students’ focus, the project still deeply engaged in questions of the past, the present, and the stories we tell ourselves about both.&lt;/p&gt;
+
+&lt;p&gt;For the eighth, current year of the program we’ve instituted some significant changes to things that I will write more about in the future. But relevant to this discussion about freedom vs. constraint is that we returned somewhat to the roots of the program, providing the students with a fairly well defined kernel of an idea to make their own and implement in their own way. Students this year are working with the library’s Director of Information Policy to develop a project that engages with the ramifications of January 1st, 2019, when new works entered the public domain for the first time since the passage of the 1998 Sonny Bono Copyright Extension Act. I can go on about how excited I am for it, but I’d prefer for the students to frame the intervention themselves when they’re ready to do so. Keep an eye out for those insights!&lt;/p&gt;
+
+&lt;p&gt;Therefore, in answer to the question “What is Praxis working on?” I’d say: the students have worked on many different types of things over the years.&lt;/p&gt;
+
+&lt;p&gt;I think, however, that people ask what we’re engaged with presently not just to get a sense of the final product, but also in an attempt to better understand our process. Because no matter how public and transparent we try to be, the program is always happening for a small group of students behind doors that, if not closed, are cracked only slightly (we’re a library after all).&lt;/p&gt;
+
+&lt;p&gt;In that case, I have a slightly more boring answer to the question that I think really gets at the heart of the program.&lt;/p&gt;
+
+&lt;p&gt;What is Praxis working on?&lt;/p&gt;
+
+&lt;p&gt;We’re working on it.&lt;/p&gt;
+
+&lt;p&gt;The truth is we could have the students work on pretty much anything. The discussions would change, and the interventions into the scholarly conversations might be more or less incisive. But the built project is only part of the equation for us. And as &lt;a href=&quot;http://scholarslab.org/charter/&quot;&gt;the Scholars’ Lab charter&lt;/a&gt; states, the development of our people is at least as important as the projects or products themselves. The &lt;em&gt;thing&lt;/em&gt; the students work on is less important than what that object can do in the service of the larger group. Our real aim is to build up the students as confident, conversant scholar-practitioners of digital method.&lt;/p&gt;
+
+&lt;p&gt;Praxis can be difficult to describe because it changes every year, and that’s by design. The content of the project changes, sure, and the students necessarily change. But the staff also changes - the lab has had a lot of turnover since Praxis began. I’m now the third or fourth person to take charge of Praxis, and we all have different ways of running things and conceptualizing the program. Rather than think of the program as a search for the perfect approach to project-based pedagogy, in the last year I’ve really come to see its evolving nature as a strength. When I’m asked what is Praxis working on, I’m led to think about how we’re constantly trying to reshape our fundamental assumptions, re-evaluating the process, and making changes based on the needs of our students. The staff are always working on the fellowship program itself.&lt;/p&gt;
+
+&lt;p&gt;Because process is everything. &lt;em&gt;How&lt;/em&gt; we have students approach the work can really set the students up for success for failure-even more than the nature of the project itself. In the Scholars’ Lab, we’re committed to putting the students in charge of their education. But doing so can take a lot of different shapes, and Praxis has led to a lot of questions for me in the last year - questions that have been going round in my head all year and that have drifted outwards in this post. What are our limits at the lab in how design the student experience? How free can we be? How constrained? I’ve taken to jokingly describing the Praxis program as a riff on the tagline of the old MTV show &lt;em&gt;Real World&lt;/em&gt; - “seven strangers picked to live in a house.” Except, in our case, we have six strangers picked to work on a project together. Are we setting them up for drama worthy of reality TV or for transformative learning experiences?&lt;/p&gt;
+
+&lt;p&gt;What is Praxis working on right now?&lt;/p&gt;
+
+&lt;p&gt;We’re working on being better. More on that soon!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>(DH) Public Speaking</title>
+   <link href="http://walshbr.com/blog/dh-public-speaking/"/>
+   <updated>2018-11-26T15:17:00+00:00</updated>
+   <id>http://walshbr.com/blog/dh-public-speaking</id>
+   <content type="html">&lt;p&gt;This is a post that I had partially drafted on my laptop for a while, and I want to be better about getting things out in the world rather than sitting on them.&lt;/p&gt;
+
+&lt;p&gt;Part of my job involves helping students professionalize, as digital humanists and otherwise, which often means being there when students get accepted to their first digital humanities conference. Since most of my students come from the humanities, those conversations often go something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Student: “I got accepted to the big digital humanities conference!” &lt;br /&gt;
+Me: “That’s exciting! You should be proud of yourself.”&lt;br /&gt;
+&lt;strong&gt;two months pass&lt;/strong&gt; &lt;br /&gt;
+Student: “Wait what should I be expecting at this conference? People read their talks right?”&lt;br /&gt;
+Me: “Well…it’s complicated…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The answer, of course, is that it depends. In my experience, DH presentations seem to cover the full spectrum of approaches to public speaking and vary pretty widely depending on the conference. A DH talk at a discipline-specific conference is likely to be different than a DH talk at a mostly DH event. Some people dutifully read a talk they have written ahead of time. I would say most speakers get by with talking from notes, giving a presentation that is more or less extemporaneous. Some seem to speak fully off the cuff with little preparation and pull it off with style (not something I could do). Personal styles vary a lot, and giving a keynote is somewhat different than giving a roundtable response or a short paper presentation. Arguments about which approach is the best can be &lt;em&gt;fierce&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The topic reminds me of a conversation I had with an undergraduate mentor back when I was just coming into graduate school and was accepted to my first conference. I had no real experience with academia at all - no friends or family who had worked on graduate degrees that were not pre-professional, and no humanities grads in my network. So I did not know what an abstract was, what a talk was, or how the two related with each other. After all, these behaviors and institutions all have to be learned sometime and somehow.&lt;/p&gt;
+
+&lt;p&gt;So on the off chance that this information is useful to someone out there I thought I would make a few notes about the way I go about preparing for talks, particularly because the way I do so is probably not immediately legible based on the end product. The way I do things feels somewhat idiosyncratic, which hopefully makes it all the more worth sharing. I finally decided it was worth doing so after walking around the Chicago airport prepping for my DH 2018 talk.&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-a-talk--giving-a-talk-from-notes&quot;&gt;Reading a Talk / Giving a Talk from Notes&lt;/h2&gt;
+
+&lt;p&gt;To begin, it might be helpful to compare the two main approaches to giving DH talks that I outlined above. I think they probably hold true for most forms of public speaking, though one genre of talk might be less socially accepted depending on your context and your audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When reading a written paper…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You are more likely to stick to the time limit. It is easier to plan when you know each page is roughly two minutes.&lt;/li&gt;
+  &lt;li&gt;You already have something written up that can easily be repurposed or shared online. It is harder to get back in the conference headspace and write a thing up with every passing moment after a conference.&lt;/li&gt;
+  &lt;li&gt;You will probably find the experience easier on the nerves, as all you have to do is keep reading and talking. Before you know it, the bulk of the talk will be done.&lt;/li&gt;
+  &lt;li&gt;You can seem quite dull unless you take steps to perform your reading very well. This point is probably the main objection to reading a talk. After all, it is hard to stay engaged when someone is just reading aloud for 15 to 20 minutes (let alone an hour). This is not universally true - some people are quite adept at performing their reading of a presentation. And some (non-DH contexts in particular) virtually expect you to be reading your talk.&lt;/li&gt;
+  &lt;li&gt;But, then again, you will actually say everything you mean to say in the order you mean to say it. That is worth a lot!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;When speaking from notes…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You are more likely to be engaging. It is easier for you to inject a sense of personality in your talk. Again, this is usually the big advantage of the approach to people.&lt;/li&gt;
+  &lt;li&gt;It is more difficult to predict how long you will talk for. If you take out the rough rule of two minutes to a 12-point Times New Roman page it is more difficult to know exactly what you are in for. Will you get through everything? Will you run out of time?&lt;/li&gt;
+  &lt;li&gt;Beyond pace, you might leave something out, or you might not say something in exactly the best way to express your ideas.&lt;/li&gt;
+  &lt;li&gt;You will not necessarily have a written product ready to go at the end, so that makes more work for you if you want to share the talk.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think it is far more common in digital humanities to speak from notes. People have quite strong opinions about the delivery of talks, but I have always felt that there is no one correct answer. In one context you might see someone looked down upon for reading, but in that same venue a speaker might try and go from notes, go way over time, and never get through more than the introduction. Both can be done well, and both can be done poorly.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-and-then-listen&quot;&gt;Write and then Listen&lt;/h2&gt;
+
+&lt;p&gt;I do not write this to convince anyone that one form is better - I always feel like the conversation depends on a lot of personal factors. How anxious does public speaking make you? What makes you most comfortable? What social, personal, or medical circumstances might wholly rule out one approach for you? I more wanted to share my approach, which tries to split the differences. I should say at the outset that I am not necessarily advocating this for everyone. It feels a bit strange, but it is a workflow that I have come to like quite a lot. Hopefully it’s useful for someone out there as well.&lt;/p&gt;
+
+&lt;p&gt;The workflow I use to prepare has its roots in my own learning habits that go back to grade school - I have always found it easier to learn things by listening rather than by reading. When learning things for tests growing up I always needed to say them aloud - get them in my mouth and in my ear. And now I do it as a professional. If it was good enough for me in sixth grade it is good enough for me as an adult. The process I use to prepare for long-form public speaking (usually anything longer than 5-6 minutes) draws upon a similar process of making the work audible:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I write the talk.&lt;/li&gt;
+  &lt;li&gt;I record myself giving the talk and make an MP3 of it using &lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;audacity&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I use &lt;a href=&quot;https://www.ronimusic.com/&quot;&gt;The Amazing Slow Downer&lt;/a&gt;, a great tool used by musicians, to divide up the talk into sections.&lt;/li&gt;
+  &lt;li&gt;I listen to the segments of that MP3 a bunch of times while walking around the airport, doing chores, driving, etc.&lt;/li&gt;
+  &lt;li&gt;Practicing a talk usually entails trying to learn pieces of the talk.&lt;/li&gt;
+  &lt;li&gt;When giving the talk I have the written version for reference if needed, but I usually don’t need to look at it much.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Amazing Slow Downer allows you to do all sorts of useful things with audio to facilitate learning things by ear. You are probably not going to use most of its features if learning a talk, but it does have a pretty handy slicing and looping tool that can make it easier to divide a talk into segments and learn one piece at a time. If you are trying to learn music you can also slow things down without changing the pitch so as to pick things apart one note at a time.&lt;/p&gt;
+
+&lt;p&gt;Writing a talk is one thing. Learning and delivering it are another. The process for me is pretty similar to learning a song by listening to it on repeat. By the time I give the talk the thing has been rattling around in my head for days or weeks. I am usually just as excited to get the content out of my head and move on with my life as I am to actually discuss the material. I do not ever quite memorize the talks, but I do come close in a lot of cases. The good thing, though, is that I do not really need to memorize them. I can always bring the written talk with me anyway, and I usually do. Because I have already listened to the piece a lot and tried to learn it I only need to look down every five or six sentences to jog my memory. Each listen to the talk ahead of time is one fewer times I will have to look down at the sheet in the moment.&lt;/p&gt;
+
+&lt;p&gt;The result is a good middle road for me where I feel like I get the best of both worlds. I walk away with a blog post ready to go, and the timing is easier to plan for. I think I am much more engaging this way than when I read straight up, and it calms my nerves to know that I have prepared enough that the talk has earwormed its way into my head. If I get &lt;em&gt;really&lt;/em&gt; panicked I can always just look down and grab the next set of sentences.&lt;/p&gt;
+
+&lt;p&gt;As with all things, your mileage may vary. But if this post does nothing other than spread the word about The Amazing Slow Downer I will consider it a success. It is a really nifty tool, especially when paired with Audacity.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Praxis and Scale: On The Virtue of Small</title>
+   <link href="http://walshbr.com/blog/praxis-and-scale-on-the-virtue-of-small/"/>
+   <updated>2018-06-15T09:26:00+00:00</updated>
+   <id>http://walshbr.com/blog/praxis-and-scale-on-the-virtue-of-small</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;The following is a version of my talk for DH2018 that will be given as a part of a roundtable on Digital Humanities Pedagogy and Praxis. Participants on the panel responded to a &lt;a href=&quot;http://praxis-network.org/dh2018/&quot;&gt;CFP&lt;/a&gt; marking five years since we launched the &lt;a href=&quot;http://praxis-network.org/&quot;&gt;Praxis Network&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/1.jpeg&quot; alt=&quot;title slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am Brandon Walsh, the Head of Graduate Programs at the Scholars’ Lab in the University of Virginia Library in the United States. Today I want to talk about a tension I see in DH pedagogy between the hands-on, student-driven instruction that we’re discussing here as part of the Praxis Network and the scale at which we can offer it. Can we take what started small and scale it up in an ethical and informed way? In particular, I want to suggest that “small” investments in pedagogy driven by students are worth it, that we should resist uncritical calls to scale up the reach of our praxis, and that we can best measure the growth of our programs by the degree to which our students are empowered to become engaged, generous teachers in their own right.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/2.jpeg&quot; alt=&quot;praxis program summary&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My own local context for this talk is the Scholars’ Lab’s &lt;a href=&quot;http://praxis.scholarslab.org/&quot;&gt;Praxis Program&lt;/a&gt;, which offers a targeted digital humanities injection during the early years of a student’s graduate work. In the Praxis Program each year, staff and faculty work alongside a student cohort to theorize a new digital intervention and to train the students to implement it themselves. We shift from a series of workshops and discussions in the fall semester to a lab model in the spring, from the staff in front of the room to all of us working together to get a thing done. Funding for the program comes from the library in the form of teaching releases for the students, and I’m happy to talk more about these practical details in the Q&amp;amp;A. The program aims to equip graduate students with the skills and ethos necessary to thrive when carrying out collaborative, open work that might happen on or off the tenure track, and, drawing upon the pedagogical theories of Cathy Davidson, Paolo Freire, Bethany Nowviskie, and others, we do this by putting the students in charge, allowing them as much as possible to decide what they work on and how they’ll work on it.&lt;/p&gt;
+
+&lt;p&gt;This panel invites us to reflect on how student programs like these have changed in the past several years, on their triumphs and difficulties. Now in its seventh year, we measure the Praxis Program’s success by a number of metrics - exit interviews, job placements, future awards received by our alumni, and publications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/3.jpeg&quot; alt=&quot;praxis projects slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve assembled a &lt;a href=&quot;http://praxis.scholarslab.org/projects&quot;&gt;series of projects&lt;/a&gt; of varying shapes and sizes, conceived and developed by the students themselves and with various afterlives, and a host of alumni who have gone on to build on their time with us. But we sometimes get questions or comments about the program’s scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/4.jpeg&quot; alt=&quot;scale slide with image of empty chairs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each cohort consists of six students. Pretty small compared to a traditional course that might engage a single instructor, and, what’s more, this program draws in virtually all of our staff at one time or another. That is a significant investment of resources in a small group of students each year. Over the years we’ve been asked about the limits of the model from a number of people, inside and outside UVA. Can we have a second cohort of students each year? Could we take the model and grow it?&lt;/p&gt;
+
+&lt;p&gt;They’re reasonable asks, but they raise a number of issues for me that I hope might be useful for any student program. The first is simple – can a model like this grow? Although we have some &lt;a href=&quot;http://praxis.scholarslab.org/resources/&quot;&gt;recurring units, lessons, and resources&lt;/a&gt; each year, the student-driven nature of the Praxis Program requires us to embrace the unexpected. &lt;a href=&quot;http://reveal.scholarslab.org/&quot;&gt;This last year&lt;/a&gt;, for example, we started out with one idea but reversed course and rebuilt the curriculum based on the unfolding interests of our students.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/5.jpeg&quot; alt=&quot;image of Praxis resources and curriculum published online&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This requires a serious commitment of time and resources - it can be difficult to predict exactly which staff members will be the primary points of contact for the project, and responsibilities might change unexpectedly. There is also a question of capacity. We are limited in the number of students that we can maintain at any one time and still carry out our other obligations as a library unit. I should note here that there are powerful examples of people doing this kind of engaged student work on a large scale - the &lt;a href=&quot;https://www.hastac.org/groups/hastac-futureed&quot;&gt;#FutureEd initiative&lt;/a&gt; by Davidson and others is a clear example, and instructors in the sciences are often already working at a much larger scale when they try to implement similar approaches in their lecture courses. Numbers might be part of a necessary approach to your own critically engaged pedagogy.&lt;/p&gt;
+
+&lt;p&gt;Another question - should it grow? Perhaps rather than expanding a single working model, resources might be better served in other areas, other programs, other people - more on that in a moment. For our group, at least, keeping a smaller program that centers project-based education is a strategic investment in the individual as a meaningful point of intervention. The core of our work, more than any digital project, is the people, who we try empower to act as DH professionals and pay their lessons forward from day one. Far from limiting our impact, I think that deliberately staying small attempts to do more with less, to invest in the futures of these students as they become teachers themselves. We believe in the grassroots impact these young people can have on the field and on their communities.&lt;/p&gt;
+
+&lt;p&gt;And finally - how should it grow? Most importantly, to me at least, is that we continue to develop educational experiences that are as equitable and just as possible. In my experience, conversations around scale aren’t usually met with offers for more resources. And we should not let calls to grow tempt us into uncritically adopting volunteer labor or unpaid internships. &lt;a href=&quot;http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/&quot;&gt;UCLA’s Student Collaborator’s Bill of Rights&lt;/a&gt; is a touchstone here. Students might be willing to volunteer their time with you for the sake of the experience, but our position is that we should resist those offers. There is plenty of evidence to suggest that allowing such unpaid labor reinforces socioeconomic and racial disparities in the workforce. We try not to grow beyond our ability to fund our students.&lt;/p&gt;
+
+&lt;p&gt;I want to pause momentarily to recognize that this is a fairly privileged conversation. The Scholars’ Lab programs are in the fortunate position to be well funded at the time of this writing, and (even at my own institution) there are many units and individual people tasked with raising programs from the ground on little to no funding. I’m sure there are some of you in the room in that same position. My colleagues and I are fortunate. Ours is not the only way to shape a program, and it’s certainly not the best one for every institutional context. I hope, however, that this conversation might offer those of you making difficult decisions about resources a model – or, at least, a series of ideas – to consider. You don’t need an extensive reach or a robust cohort of students to make something meaningful happen. If you can fund one student – that is worth doing. Embrace the fact that you can engage that one person in the important work of developing and growing your program. Do what you can with what you can, but, again, we should collectively resist calls to grow student programs beyond our capacity to resource and sustain them.&lt;/p&gt;
+
+&lt;p&gt;I think a lot about the disparate amounts of privilege some of our students enjoy, and much of our effort is spent trying to scale our impact in ways that broaden access even though we can’t afford a deep dive with many students. This means offering a diverse range of ways in for students, with other &lt;a href=&quot;http://scholarslab.org/graduate-fellowships/&quot;&gt;opportunities&lt;/a&gt; for engaging our community that might be more targeted and more sustainable. It also means engaging alumni of the Praxis Program in our other initiatives, folding their strengths into our pool of resources and giving them opportunities to explore themselves as teachers. We try to engage these students who have been able to access our resources, time, and knowledge in helping their colleagues who might not have benefited from the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/6.jpeg&quot; alt=&quot;image of LAMI program fellows&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the Praxis Program’s inception, for example, we have partnered with our campus’s version of the &lt;a href=&quot;https://graddiversity.virginia.edu/U.Va.LAMI&quot;&gt;Leadership Alliance Mellon Initiative (LAMI)&lt;/a&gt; to pilot a complimentary program in DH and library research methods for undergraduates from underrepresented communities with the assistance of our Praxis alumni. The undergraduates taking part in this program are thinking about graduate school, and our contribution is to give them just a taste of what research at that level might look like for them. Our Praxis alumni lead a workshop for them, participate in discussions, and also show what the next phase of life after undergraduate can look like.&lt;/p&gt;
+
+&lt;p&gt;I’ve talked a bit about our past and present. A single thought on the future of our programs it would be this - I think it is incumbent upon us to turn our work outwards and think about the impact our students can have on a broader community beyond our institution - that’s where the Scholars’ Lab has been heading, and I’d like to continue in that direction. In the direction of out rather than in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/7.jpeg&quot; alt=&quot;List of student workshops at Washington and Lee&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One way in which we’ve tried to do this is to work more closely with institutions in the region. We’ve partnered with Washington and Lee for a few years now to engage students as guest DH workshop leaders on their campus, and we’re soon hoping to expand to University of Richmond as well. We ask our students to blog about these workshops, and we have been accumulating a &lt;a href=&quot;https://digitalhumanities.wlu.edu/blog/category/uva-collaboration/&quot;&gt;list of these resources&lt;/a&gt; for others to learn from or build upon. Similarly, I would like to extend the work of our students to the local Charlottesville community, &lt;a href=&quot;https://news.library.virginia.edu/2018/06/18/library-receives-grant-from-lyrasis-for-digital-collecting-in-times-of-crisis/&quot;&gt;something the Lab has been increasingly engaged in&lt;/a&gt;, but I would like us to be more deliberate about incorporating students as we do so. We can continue to empower student research but do so as part of the Lab’s mission of promoting access, sharing resources, and advancing social justice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/praxis-and-scale/8.jpeg&quot; alt=&quot;Title slide redone&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If I have one point today point it is this - there are limits to the number of deep dives you can take. But they can serve as excellent starting points for other schemes - you can do a lot with a little. Our former director, Bethany Nowviskie, once used the phrase “too small to fail” to describe our approach to graduate education. Small can still have a big impact. At the Scholars’ Lab, I’d like our own particular brand of small to be public, engaged, and local, empowering students who feel confident but also compelled to give back to their peers, students, and neighborhoods. Weighing ourselves in this way, by the degree to which we help to democratize and provide access to these sorts of methods, questions, and technologies ultimately feels more meaningful than doing so by the number of students we reach.&lt;/p&gt;
+
+&lt;p&gt;References and Further Reading&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Student Collaborators’ Bill of Rights. University of California Los Angeles Center for Digital Humanities. &lt;a href=&quot;http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/&quot;&gt;http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;#FutureEd. Humanities, Arts, Science, and Technology Alliance and Collaboratory. &lt;a href=&quot;https://www.hastac.org/initiatives/futureed&quot;&gt;https://www.hastac.org/initiatives/futureed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Davidson, C. (2017). The New Education: How to Revolutionize the University to Prepare Students for a World In Flux. New York, NY: Basic Books.&lt;/li&gt;
+  &lt;li&gt;Freire, P. (1970). Pedagogy of the Oppressed. New York, NY: Bloomsbury Academic.&lt;/li&gt;
+  &lt;li&gt;Nowviskie, B. (2011). “Praxis and Prism.” &lt;a href=&quot;http://nowviskie.org/2011/praxis-and-prism/&quot;&gt;http://nowviskie.org/2011/praxis-and-prism/&lt;/a&gt;
+———. (2012). “Too Small To Fail.” &lt;a href=&quot;http://nowviskie.org/2012/too-small-to-fail/&quot;&gt;http://nowviskie.org/2012/too-small-to-fail/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rogers, K. (2015). “Humanities Unbound: Supporting Careers and Scholarship Beyond the Tenure Track.” Digital Humanities Quarterly 9.1.&lt;/li&gt;
+  &lt;li&gt;The Praxis Program. University of Virginia Library’s Scholars’ Lab. &lt;a href=&quot;http://praxis.scholarslab.org&quot;&gt;http://praxis.scholarslab.org&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;The Praxis Network. University of Virginia Library’s Scholars’ Lab. &lt;a href=&quot;http://praxis-network.org/&quot;&gt;http://praxis-network.org/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Frustration is a Feature</title>
+   <link href="http://walshbr.com/blog/frustration/"/>
+   <updated>2018-01-03T09:44:00+00:00</updated>
+   <id>http://walshbr.com/blog/frustration</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;The following talk was given at MLA18 as a part of Panel 203: Anxious Pedagogies - Negotiating Precarity and Insecurity in the Classroom. Technically I suppose the title should be “Anxiety Is a Feature,” but the alliteration was too tempting.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/frustration/1.jpg&quot; alt=&quot;title slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for putting this panel together, Shawna. And thanks, all of you, for your thoughts - I’ve learned a lot from our exchanges leading up to this panel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/frustration/2.jpg&quot; alt=&quot;Text: &amp;quot;What are you teaching you're students?&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m the Head of Graduate Programs in the Scholars’ Lab, a digital humanities center at the UVA Library. I want to come at the question of anxious pedagogies from the perspective of my role in the lab, where I often teach programming and DH skills and methods in addition to my primary duties, which are developing and administering the lab’s educational and professional development programs for graduate students. I work with students very self-consciously trying to step outside of their comfort zones, and I’d like to think about the anxieties associated with these cases in particular.&lt;/p&gt;
+
+&lt;p&gt;I want to ask what, exactly, it is that we’re teaching our students. If you’re a sighted reader of English, your skin has probably been crawling due to the grammatical error in my slide here. And that’s part of the point - this error is the subject of memes (but it’s one I constantly make in emails). You might be embarrassed for me and wish someone had pointed it out to me ahead of time. Let’s explore that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/frustration/3.jpg&quot; alt=&quot;Basic Python syntax error&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a Python error of a similar kind in this slide. In programming, such small mistakes are major issues that can cause a project to fail. They’re also common for beginning programmers and DHers. A student has an error like this, and, quite understandably, they ask for help from the teacher. The instructor, as a human being, quite understandably wants to help. I want to talk about that moment - the point at which a student needs help and the nature of the contribution that we as colleagues and mentors are prepared to give.&lt;/p&gt;
+
+&lt;p&gt;The ability to identify the kinds of problems I’m pointing out depends a lot on background and training. To expect such problems to be immediately identifiable makes a lot of assumptions about education, literacy, and background that no instructor should make. This is as true of the first example as in the second, which expects that someone has a background in programming and so knows that a computer would not be able to infer a relationship between the variables ‘fruit’ and ‘fruits’ - adding the extra ‘s’ in that last line by accident causes problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/frustration/4.jpg&quot; alt=&quot;XKCD comic about how every day 10,000 people learn something for the first time.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have seen so many students stare, with mounting frustration, at chunks of code, feeling that they are beyond them, that issues in code represent some failing on their own part rather than a natural part of programming (we all make mistakes). Sure, my job is to teach them the skills with which they can solve these problems - the syntax that will prevent such errors in the future. But it’s also to help them recognize that no one is born knowing this stuff. Born knowing anything. And that such anxieties and frustrations are part of what all of us all deal with on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;I am not suggesting that we should approach such student frustration as feelings to be worked past or to be toughed out. Instead I want to suggest that the most important, radical act that we can make as teachers is to center frustration and anxiety in our teaching. This feeling, that of knowing something is there but not seeing it, or of knowing something is wrong but not how to address it, are central to the very idea of what it means to learn and to teach. Sianne Ngai might call these “ugly feelings” - those feelings that lead to no cathartic action and that are associated, instead, with pause, frustration, and paralysis.&lt;/p&gt;
+
+&lt;p&gt;I’d suggest that our primary role as teachers is not to teach any particular content. Nor is our primary role to teach methods. Our ultimate aim should be to help students learn how to learn, how to keep going with the material outside the context of our courses. And, importantly, how to do this work with, through, and alongside such difficult emotions.&lt;/p&gt;
+
+&lt;p&gt;In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it. I’ve tried to develop exercises (drawing upon the work of &lt;a href=&quot;http://waynegraham.github.io/&quot;&gt;Wayne Graham&lt;/a&gt;, &lt;a href=&quot;http://jeremyboggs.net/&quot;&gt;Jeremy Boggs&lt;/a&gt;, &lt;a href=&quot;http://literaturegeek.com/&quot;&gt;Amanda Visconti&lt;/a&gt;, and &lt;a href=&quot;http://nowviskie.org/&quot;&gt;Bethany Nowviskie&lt;/a&gt;) that help students sit with and think through the frustration and anxiety associated with failure. To teach web design, I ask students to draw a series of prototypes for websites using pencil and paper, some explicitly designed to fail, so as to develop a better sense of what it might mean for a website to succeed. Or I ask students to explore a set of programming exercises that have bugs artificially introduced to them as a way of helping them learn concrete steps for exploring problems in the face of mounting anxiety.&lt;/p&gt;
+
+&lt;p&gt;I’d love to hear from all of you if you have any thoughts for how to center, rather than expel, frustration and anxiety from teaching, learning, and the classroom. These issues are especially salient while teaching programming to humanists, as the interdisciplinary nature of it requires people step out of their comfort zone. But as others on this panel have articulated so well, these issues extend to the whole person. Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.&lt;/p&gt;
+
+&lt;p&gt;Most of what we do in the Scholars’ Lab is help students navigate these situations in a professional context. Most of what I do tends to revolve around convincing students that they are good enough. That they are qualified enough to &lt;a href=&quot;http://scholarslab.org/visiting-workshops-at-washington-and-lee-university/&quot;&gt;teach a workshops on DH&lt;/a&gt; or &lt;a href=&quot;http://scholarslab.org/professional-development/&quot;&gt;to apply for any number of DH or alt-ac jobs&lt;/a&gt;.  That a little goes a long way. That imposter syndrome is something felt by everyone. That their work has worth.&lt;/p&gt;
+
+&lt;p&gt;There are a number of things we can do as administrators to help mitigate the anxieties of our students. Advocate for them by actively campaigning for the bureaucratic status to serve on committees, teach courses, and offer them the support that they need. Petition our legislatures and administrations for more just labor relations. Figure out the small bureaucratic things that translate to big pains for our students - things like delayed payments, long turnarounds on applications, gatekeeping practices.&lt;/p&gt;
+
+&lt;p&gt;My point, our point, really, is that our students and colleagues are consistently in positions of anxiety and frustration - in and out of the classroom. So I’d ask what can we do to make our institutions, our classrooms, and our one-on-one interactions with our students more empathetic, but also more consciously aware of and engaged in the negative emotions they might bring out. Because as the title of this short talk suggests - frustration and anxiety are not pedagogical bugs. They are features. Woven into the very texture of what it means to be human and to be a learner. The question is - what are we prepared to do about it?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Collaborative Writing to Build Digital Humanities Praxis</title>
+   <link href="http://walshbr.com/blog/collaborative-writing-to-build-digital-humanities-praxis/"/>
+   <updated>2017-08-04T14:40:00+00:00</updated>
+   <id>http://walshbr.com/blog/collaborative-writing-to-build-digital-humanities-praxis</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;[The following is the rough text of my short paper given at the 2017 Digital Humanities conference in Montréal.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/1.jpg&quot; alt=&quot;title slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks very much for having me today! I’m Brandon Walsh, Head of Graduate Programs in the Scholars’ Lab at the University of Virginia Library. I’ll be talking a bit today about “Collaborative Writing to Build Digital Humanities Praxis.” Since the subject here is collaboration I wanted to spend a few minutes here on my collaborators.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/2.jpg&quot; alt=&quot;thank you slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was begun at my previous position at Washington and Lee University’s library. My principal collaborator here is and was Professor Sarah Horowitz, from Washington and Lee University. We conceived the project together, co-taught the associated course, and her writing figures prominently on the project I will describe. The other names here are individuals, institutions, or projects who figure explicitly in the talk, whether they know it or not. You can find a Zotero collection with the resources mentioned during the talk &lt;a href=&quot;http://goo.gl/2CuWj7&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So. To begin. Emergent programs like those associated with the &lt;a href=&quot;http://praxis-network.org&quot;&gt;Praxis Network&lt;/a&gt; have redefined the possibilities for digital humanities training by offering models for project-based pedagogy. These efforts provide innovative institutional frameworks for building up and sharing digital skills, but they primarily focus on graduate or undergraduate education. They tend to think in terms of students. The long-term commitments that programs like these require can make them difficult to adapt for the professional development of other librarians, staff, and faculty collaborators. While members of these groups might share deep interests in undertaking such programs themselves, their institutional commitments often prevent them from committing the time to such professional development, particularly if the outcomes are not immediately legible for their own structures of reporting. I argue that we can make such praxis programs viable for broader communities by expanding the range of their potential outcomes and forms. In particular, I want to explore the potential for collaborative writing projects to develop individual skillsets and, by extension, the capacity of digital humanities programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/3.jpg&quot; alt=&quot;coursebook site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While the example here focuses on a coursebook written for an undergraduate audience, I believe the model and set of pedagogical issues can be extrapolated to other circumstances. By considering writing projects as potential opportunities for project-based development, I argue that we can produce professionally legible outcomes that both serve institutional priorities and prove useful beyond local contexts.&lt;/p&gt;
+
+&lt;p&gt;The particular case study for this talk is an &lt;a href=&quot;http://walshbr.com/textanalysiscoursebook&quot;&gt;open coursebook&lt;/a&gt; written for a course on digital text analysis (Walsh and Horowitz, 2016). In fall of 2015, Professor Sarah Horowitz, a colleague in the history department at Washington and Lee University, approached the University Library with an interest in digital text analysis and a desire to incorporate these methods in her upcoming class. She had a growing interest in the topic, and she wanted support to help her take these ideas and make them a reality in her research and teaching. As the Mellon Digital Humanities Fellow working in the University Library, I was asked to support Professor Horowitz’s requests because of my own background working with and teaching text analysis. Professor Horowitz and I conceived of writing the coursebook as a means by which the Library could meet her needs while also building the capacity of the University’s digital humanities resources. The idea was that, rather than offer her a handful of workshops, the two of us would co-author materials together that could then be used by Professor Horowitz later on. The writing of these materials would be the scene of the teaching and learning. Our model in this regard was as an initiative undertaken by the Digital Fellows at the CUNY Graduate Center, where their Graduate Fellows produce documentation and shared digital resources for the wider community. We aimed to expand upon their example, however, by making collaborative writing a centerpiece of our pedagogical experiment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/4.jpg&quot; alt=&quot;tech stack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We included Professor Horowitz directly in the creation of the course materials, a process that required her to engage in a variety of technologies central to a certain kind of web publishing workflow: command line, Markdown, Git, and GitHub. We produced the materials on a platform called &lt;a href=&quot;https://www.gitbook.com/&quot;&gt;GitBook&lt;/a&gt;, which provides a handy interface for writing that invokes many elements of this tech stack in a non-obtrusive way. Their editor allows you to write in markdown and previews the resultant text for you, but it also responds to the standard slew of MS Word keyboard shortcuts that many writers are familiar with. In this way we were able to keep the focus on the writing even as we slowly expanded Professor Horowitz’s ability to work directly with these technologies. From a writing standpoint, the process also required synthesis of both text analysis techniques and disciplinary material relevant to a course in nineteenth-century history. I provided the former, Professor Horowitz would review and critique as she added the latter, then I would review, etc. The result, I think, is more than either of us could have produced on our own, and we each learned a lot about the other’s subject matter. The result of the collaboration is that, after co-writing the materials and teaching the course together, Professor Horowitz is prepared to offer the course herself in the future without the support of the library. We now also possess course materials that, through careful structuring and selection of platforms, could be reusable in other courses at our own institutions and beyond. In this case, we tried to take special care to make each lesson stand on its own and to compartmentalize each topic according to the various parts of each class workshop. One section would introduce a topic from a theoretical standpoint, the next would offer a case study using a particular tool, and the last would offer course exercises that were particular to our course. We hoped this structuring would make it easy for the work to be excerpted and built upon by others for their own unique needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/5.jpg&quot; alt=&quot;table of contents&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Writing collaborations such as these can fit the professional needs of people in a variety of spaces in the university. Course preparation, for example, often takes place behind the scenes and away from the eyes of students and other scholars. You tend to only see the final result as it is performed with students in a workshop or participants in a class. With a little effort, this hidden teaching labor can be transformed into openly available resources capable of being remixed into other contexts. We are following here on the example of Shawn Graham (2016), who has illustrated through his own resources for a class on &lt;a href=&quot;http://workbook.craftingdigitalhistory.ca/&quot;&gt;Crafting Digital History&lt;/a&gt; that course materials can be effectively leveraged to serve a wider good in ways that still parse in a professional context. In our case, the collaboration produced public-facing web writing in the form of an open educational resource. The history department regarded the project as a success for its potential to bring new courses, skills, and students into the major as a result of Professor Horowitz’s training. The University Library valued the collaboration for its production of open access materials, development of faculty skills, and exploration of workflows and platforms for faculty collaboration. We documented and managed the writing process in a &lt;a href=&quot;https://github.com/walshbr/introduction-to-text-analysis&quot;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/6.jpg&quot; alt=&quot;GitHub repository&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This versioned workflow was key to our conception of the project, as we hoped to structure the project in such a way that others could copy down and spin up their own versions of the course materials for their own needs. We were careful to compartmentalize the lessons according to their focus on theory, application, or course exercises, and we provided &lt;a href=&quot;http://walshbr.com/textanalysiscoursebook/book/conclusion/adapting/&quot;&gt;documentation&lt;/a&gt; to walk readers through the technical process of adapting the book to reflect their own disciplinary content. We wrote reasonably detailed directions aimed at two different audiences - those with a tech background and those without. We wanted people to be able to pull down, tear apart, and reuse those pieces that were relevant for them. We hoped to create a mechanism by which readers and teachers could iterate using our materials to create their own versions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/collaborative-writing/7.jpg&quot; alt=&quot;Adapting the Book&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Writing projects like this one provide spaces for shared learning experiences that position student and teacher as equals. By writing in public and asking students and faculty collaborators to discuss, produce, and revise open educational resources, we can break down distinctions between writer and audience, teacher and student, programmer and non-programmer. In this spirit, work by Robin DeRosa (2016) with the &lt;a href=&quot;https://openamlit.pressbooks.com/&quot;&gt;Open Anthology of Earlier American Literature&lt;/a&gt; and Cathy Davidson with HASTAC has shown that students can make productive contributions to digital humanities research at the same time that they learn themselves. These contributions offer a more intimate form of pedagogy – a more caring and inviting form of building that can draw newcomers into the field by way of non-hierarchical peer mentoring. It is no secret that academia contains “severe power imbalances” that adversely affect teaching and the lives of instructors, students, and peers (McGill, 2016). I see collaborative writing as helping to create shared spaces of exploration that work against such structures of power. They can help to generate what Bethany Nowviskie (2016) has recently advocated as a turn towards a “feminist ethics of care” to “illuminate the relationships of small components, one to another, within great systems.” By writing together, teams engage in what Nowviskie (2011) calls the “perpetual peer review” of collaborative work. Through conversations about ethical collaboration and shared credit early in the process, we can privilege the voice of the learner as a valued contributor to a wider community of practitioners even before they might know the technical details of the tools or skills under discussion.&lt;/p&gt;
+
+&lt;p&gt;Collaborative writing projects can thus serve as training in digital humanities praxis: they can help introduce the skills, tools, and theories associated with the field, and projects like ours do so in public. Productive failure in this space has long been a hallmark of work in the digital humanities, so much so that “Failure” was listed as a keyword in the new anthology Digital Pedagogy in the Humanities (Croxall and Warnick, 2016). Writing in public carries many of the same rewards – and risks. Many of those new to digital work, in particular, rightfully fear putting their work online before it is published. The clearest way in which we can invite people into the rewards of public digital work is by sharing the burdens and risks of such work. In her recent work on generous thinking, Kathleen Fitzpatrick (2016) has advocated for “thinking with rather than reflexively against both the people and the materials with which we work.” By framing digital humanities praxis first and foremost as an activity whose successes and failures are shared, we can lower the stakes for newcomers. Centering this approach to digital humanities pedagogy in the practice of writing productively displaces the very digital tools and methodologies that it is meant to teach. Even if the ultimate goal is to develop a firm grounding in a particular digital topic, focusing on the writing invites students and collaborators into a space where anyone can contribute. By privileging the writing rather than technical skills as the means of engagement and ultimate outcome, we can shape a more inviting and generous introduction to digital humanities praxis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Croxall, B. and Warnick, Q. (2016). “Failure.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. Modern Languages Association.&lt;/li&gt;
+  &lt;li&gt;DeRosa, R. (2016). “The Open Anthology of Earlier American Literature.” https://openamlit.pressbooks.com/.&lt;/li&gt;
+  &lt;li&gt;Fitzpatrick, K. (2016). “Generous Thinking: The University and the Public Good.” Planned Obsolescence. http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/.&lt;/li&gt;
+  &lt;li&gt;Graham, S. (2016). “Crafting Digital History.” http://workbook.craftingdigitalhistory.ca/.&lt;/li&gt;
+  &lt;li&gt;McGill, B. (2016). “Serial Bullies: An Academic Failing and the Need for Crowd-Sourced Truthtelling.” Dynamic Ecology. https://dynamicecology.wordpress.com/2016/10/18/serial-bullies-an-academic-failing-and-the-need-for-crowd-sourced-truthtelling/.&lt;/li&gt;
+  &lt;li&gt;Nowviskie, B. (2011). “Where Credit Is Due.” http://nowviskie.org/2011/where-credit-is-due/.&lt;/li&gt;
+  &lt;li&gt;———. 2016. “Capacity Through Care.” http://nowviskie.org/2016/capacity-through-care/.
+Ramsay, S. (2010). “Learning to Program.” http://stephenramsay.us/2012/06/10/learning-to-program/.&lt;/li&gt;
+  &lt;li&gt;———. 2014. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” In Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee. University of Michigan Press. http://hdl.handle.net/2027/spo.12544152.0001.001.&lt;/li&gt;
+  &lt;li&gt;The Praxis Network (2017). University of Virginia Library’s Scholars’ Lab. http://praxis-network.org/.
+Walsh, Brandon, and Sarah Horowitz. 2016. “Introduction to Text Analysis: A Coursebook.” http://www.walshbr.com/textanalysiscoursebook&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Remixing the Sound Archive: Cut-up Poetry Recordings</title>
+   <link href="http://walshbr.com/blog/remixing-the-sound-archive/"/>
+   <updated>2017-06-16T13:47:00+00:00</updated>
+   <id>http://walshbr.com/blog/remixing-the-sound-archive</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;[Recently I spoke at NEMLA 2017 with &lt;a href=&quot;http://www.sherwoodweb.org/&quot;&gt;Ken Sherwood&lt;/a&gt; and &lt;a href=&quot;https://www.english.upenn.edu/people/chris-mustazza&quot;&gt;Chris Mustazza&lt;/a&gt;. The panel was on “Pedagogy and Poetry Audio: DH Approaches to Teaching Recorded Poetry/Archives,” and my own contribution extended some &lt;a href=&quot;/blog/deformance-talk/&quot;&gt;past experiments&lt;/a&gt; with using deformance as a mode of analysis for audio recordings. The talk was given from notes, but the following is a rough recreation of what took place.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Robust public sound archives have made a wide variety of material accessible to students and researchers for the first time, and they provide helpful records of the history of poetic performance throughout the past century. But they can also appear overwhelming in their magnitude, particularly for students: where to begin listening? How to begin analyzing any recording, let alone multiple recordings in relation to each other? This talk argues that we can help students start to explore these archives if we think about them as more than just an account of past performances: sound collections can provide the materials for resonant experiments in audio composition. I want to think about new ways to explore these archives through automatic means, through the use of software that algorithmically explores the sound collection as an object of study by tampering with it, dismantling it, and reassembling it. In the process, we might just uncover new interpretive dimensions.&lt;/p&gt;
+
+&lt;p&gt;This talk thus models an approach to poetry recordings founded in the deformance theories of Jerome McGann and Lisa Samuels and the cut-up techniques of the Dadaists. I prototype a pair of class assignments that ask students to slice up audio recordings of a particular poet, reassemble them into their own compositions, and reflect on the process. These acts of playful destruction and reconstruction help students think about poems as constructed sound objects and about poets as sound artists. By diving deeply into the extant record for a particular poet, students might produce performative audio essays that enact a reading of that artist’s sonic patterns. By treating sound archives as the raw ingredients for poetic remixes, we can explore and remake sound objects while also gaining new critical insight into performance practices. In the process of remixing the sound archive, we can encourage students to engage more fully with it. And while I frame this in terms of student work and pedagogy given the topic of the panel, it should become clear that I think of this as a useful research practice in its own right.&lt;/p&gt;
+
+&lt;p&gt;I will frame the interventions and theoretical frameworks I am making before proposing two different models for how to approach such an assignment depending on the instructor’s own technical ability and pedagogical goals: one model that uses Audacity and another that uses Python to cut and reassemble poetry recordings. I will demonstrate example compositions from the latter. It will get weird.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide02.jpg&quot; alt=&quot;provocations for the talk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two provocations at the center of my talk founded in an assumption about the way students hear poetry recordings. In my experience, they often hear recordings not as sound artifacts but as representations of text. They might come to these recordings looking to hear the poet herself speak, or they might be looking to get new perspectives on the poem. But they fundamentally are interested in hearing a new version of a printed text, in hearing these things as analogues to print. This is all well and good - the connection to a text is clearly a part of what makes poetry recordings special, but I think our challenge as teachers and thinkers of poetry is to help students surface the sounded quality of the artifacts, to learn to dig deeper into digital sound in particular.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide03.jpg&quot; alt=&quot;provocations 2 - work in the medium&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My approach to this need - the need to get students to look beyond the text and towards the sound - is to get them working with these materials as heard objects. We are going to engage them in the medium. They are going to get their hands dirty. We are going to take sound - which might seem abstract and amorphous - and make it something they can touch, take apart, and reassemble. They are going to think about sound as something concrete and constructed by engaging in that very act of construction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide04.jpg&quot; alt=&quot;audacity icon slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One approach to this might be to use a tool like &lt;a href=&quot;http://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt;. If you’re not familiar, Audacity is an open source tool that lets you input sound clips and then edit them in a pared down interface. If you have an MP3 on your computer, right click it to open it in Audacity, and you will get something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide05.jpg&quot; alt=&quot;waveform in audacity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A waveform. Already we are a bit alienated from the text because this visualization doesn not really allow you to access the text of the poem as such. Interacting with the poem becomes akin to touching a visual representation of sound waves. Now, you can’t do everything in Audacity, and that’s what I like about it. When I was a music student in college I remember getting introduced to some pretty beefy sound software - &lt;a href=&quot;http://www.avid.com/pro-tools&quot;&gt;Pro Tools&lt;/a&gt; and &lt;a href=&quot;http://www.motu.com/products/software/dp&quot;&gt;Digital Performer&lt;/a&gt;. I also remember feeling pretty overwhelmed by what they had to offer. So many options! Hundreds and thousands of things to click on! What I like about Audacity is that it is a bit more stripped down. Instead of giving you all the potential options for working with sound, it does a smaller subset really well. Record, edit, mix, etc. Audacity is also open source, so it is free while the other ones are quite expensive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide06.jpg&quot; alt=&quot;first assignment in audacity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I would suggest having your students engage with recordings using this software. Here is an example assignment you might put together that asks them to put together an audio essay. Using Audacity, I would have them assemble their own sound recording that mixes in examples from other poetry recordings under examination. You might frame the exercise by having them work through a tutorial on editing audio with audacity that I put together for &lt;a href=&quot;https://programminghistorian.org/lessons/editing-audio-with-audacity&quot;&gt;The Programming Historian&lt;/a&gt;. The Programming Historian provides tutorials for a variety of digital humanities tools and methods, so this piece on Audacity is meant for absolute beginners. It coaches people through working with the interface, and, over the course of the lesson, readers produce a small podcast.&lt;/p&gt;
+
+&lt;p&gt;The lesson asks readers to use a stub Bach recording, but I would adapt it to have students assemble an essay that analyzes a poetic sound recording relevant to the course material. Instead of writing a paper on a recording, the students actually integrate their audible evidence into a new sound object, assembling the podcast by hand. Citation and description can join together in this model, and I can imagine having a student pay close attention to the audible qualities of the sounds they are discussing. The sky is the limit, but, personally, I like to imagine students analyzing TS Eliot’s voice by mimicking his style. Or you could imagine an analysis of his accent that tries to position his sense of locality, nation, and the globe by examining clips from a number of his recordings alongside clips of other speakers from around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide07.jpg&quot; alt=&quot;pros and cons of audacity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I see several benefits to having students work in this way. Students could learn a lot about Audacity producing these kinds of audio essays, and anyone planning to work with audio in the future should possess some experience with this fundamental tool. The wealth of resources for Audacity mean that it is well-suited for beginners. There are far more substantial tutorials for the software besides my own, so students would be well supported to take on this reasonably intuitive interface.&lt;/p&gt;
+
+&lt;p&gt;But there are also limitations here. For one, this type of engagement is a really slow process. Your students, after all, are engaging with a medium that they can only really experience in time. If you are working with four hours of recordings, you really have to have listened to all or most of that sound to work with it in a meaningful way. And to make anything useful, they will probably want to have listened to it multiple times and have made some notes. That is an extraordinary amount of time and energy, and we might be able to do better.&lt;/p&gt;
+
+&lt;p&gt;In addition, the assembling process is deliberate. You are asking students to put together clips bit by bit in accordance with a particular reading. And this is the real problem that I want to address - the medium here is unlikely to show you anything new. It is meant to illustrate a reading you already have. You want to produce an interpretation, so you illustrate it with sound. The theory comes first - the praxis second.&lt;/p&gt;
+
+&lt;p&gt;So I want to ask: what are some other ways we can work with audio that might show us truly new things? And how can we get around the need to listen slowly? The &lt;a href=&quot;https://blogs.ischool.utexas.edu/hipstas/publications/&quot;&gt;work by Tanya Clement and HiPSTAS&lt;/a&gt; offer compelling examples for distant listening and audio machine learning as answers to these questions. I want to offer an approach based on creativity and play. By embracing chance-based composition techniques at scale, we can start to develop more useful classroom assignments for audio.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide08.jpg&quot; alt=&quot;deformance quotation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In shifting the interpretative dimensions in this way, I am drawing on an idea that comes from Jerome McGann and Lisa Samuels: deformance. At the heart of their essay on “&lt;a href=&quot;http://www2.iath.virginia.edu/jjm2f/old/deform.html&quot;&gt;Deformance and Interpretation&lt;/a&gt;” is a quote from Emily Dickinson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Did you ever read one of her Poems backward, because the plunge from the front overturned you? I sometimes (often have, many times) have — a Something overtakes the Mind –”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;McGann and Samuels take her very literally, and they proceed to model how reading a poem backwards, line by line, can offer generative readings. This process illustrated two main ideas. The first was that reading destructively and deformatively in this way exposes new parts of the poetry that you might not otherwise notice. You get a renewed sense of the constructedness of a poem, and the materiality of it rises to the surface. By reshaping, warping, or demolishing a poem, you actually learned something about its material components and, thus, the original poem itself. The second idea was that all acts of interpretation remade their objects of study in this way. By interpreting, the poem and our sense of it changed. So destructive reading performs this process in the fullest sense by enacting an interpretation that literally changes the shape or nature of the object. For a fuller history and more satisfying explanation of the interpretive dimensions of audio deformance for research, check out “&lt;a href=&quot;https://soundstudiesblog.com/2016/10/24/in-different-voices-vocal-deformance-and-performative-speech/&quot;&gt;Vocal Deformance and Performative Speech, or In Different Voices!&lt;/a&gt;” posted by Marit J. MacArthurt and Lee M. Miller over at &lt;em&gt;Sounding Out&lt;/em&gt;. They also work with T.S. Eliot, though they they are working with recordings by him rather than those done by amateur readers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide09.jpg&quot; alt=&quot;cut up poetry&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In thinking about this performative form of reading, I was struck at how similar it sounded to cut-up poetry, the practice of slicing apart and rearranging the text of a poem so as to create new materials as popularized by the Dadaists and William S. Burroughs. To make the link to the Audacity assignments I was discussing earlier, I became interested in how this kind of performative, random, and destructive form of reading might extend the experiments in listening that I discussed with Audacity. Rather than having students purposefully rearrange a sound recording themselves, perhaps we could release our control over the audio artifact. We would still engage students in the texture of the medium, but we would ask them to let their analysis and their manifestation of that thinking grow a little closer together. We would invite play and the unknown into the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide10.jpg&quot; alt=&quot;provocations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So we will ask them to engage in the material aspects of poetry by interacting with it as a physical, constructed thing. But the engagement will be different. We will have them engage. We will have them warp. We will have them cut up. Rather than using scissors, we will let a computer program do the slicing for us. The algorithm that goes into that program will offer our interpretive intervention, and we will surrender control over it just a bit, with the understanding that doing so will offer up new interpretive dimensions later on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide11.jpg&quot; alt=&quot;python as a solution&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My approach to this was to use computer programs written in Python - a tool that allowed ways around some of the limitations that I already noted for working with Audacity. By working with a computer program I was able to produce something that could read hours of audio far quicker than I could. Python also allowed me to repurpose extant audio software packages to manipulate the audio according to my own algorithms/interpretations. In this case, I was working with &lt;a href=&quot;https://github.com/antiboredom/audiogrep&quot;&gt;Audiogrep&lt;/a&gt; and &lt;a href=&quot;https://github.com/jiaaro/pydub&quot;&gt;Pydub&lt;/a&gt;. I did not need to reinvent the wheel, as I could let these packages do the heavy lifting for me. In fact, a lot of what I did here was just manipulate the extant documentation and code examples for the tools in ways that felt intellectually satisfying. The programming became an interpretive intervention in its own right that, as I will show, brought with it all sorts of serendipitous problems. All the code I used is available &lt;a href=&quot;https://gist.github.com/walshbr/cbcdabc92995334ae52414d048ae5d92&quot;&gt;as a gist&lt;/a&gt; – it took some tinkering to get running, and it will not run for you out of the box without some manipulation. So feel free to get in touch if you wanted to try these things yourself. I can offer lessons learned!&lt;/p&gt;
+
+&lt;p&gt;In working with these tools, it quickly became clear that I needed to spend time exploring their possibilities, playing with to see what I could do. In that spirit, I will do something a bit different for the remainder of this piece. Rather than give an assignment example up front, I will share some of the things you can do to audio with Python and why they might be meaningful from an interpretive standpoint. Then I will offer reflections at the end. My workflow was as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I assembled a small corpus of sound artifacts – in this case, all the recordings of The Waste Land recorded by amateur readers on &lt;a href=&quot;https://librivox.org/&quot;&gt;LibriVox&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;I installed and configured the packages to get my Python scripts running.&lt;/li&gt;
+  &lt;li&gt;Then I started playing, exploring all the options these Python packages had.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first step of this process involves having the script read in all the recordings so that they can be transcribed. To do so, Audiogrep calls another piece of software called &lt;a href=&quot;https://github.com/cmusphinx/pocketsphinx&quot;&gt;Pocketsphinx&lt;/a&gt; behind the scenes. The resulting transcriptions look like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if it is a litter box recording
+&amp;lt;s&amp;gt; 4.570 4.590 0.999800
+if 4.600 4.810 0.489886
+it 4.820 4.870 0.127322
+is 4.880 4.960 0.662690
+a 4.970 5.000 0.372315
+litter 5.010 5.340 0.939406
+box 5.350 5.740 0.992825
+recording(2) 5.750 6.360 0.551414
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The results show us that audio transcription, obviously, is a vexed process, just as OCR is a troubled way of interacting with print text. What you see here is a segment from the transcription along with a series of words that the program thinks it heard. In this case, the actual audio “This is a librivox recording” becomes heard by the computer as “If it is a litter box recording” Although my cat might be proud, this shows pretty clearly that the process of working algorithmically is inaccurate. In this case, listening with Python exposes what Ryan Cordell or Matthew Kirschenbaum might describe as the traces that the digital methods leave on the artifacts as we work with them. Here is the longer excerpt of the Audiogrep transcription for this particular recording of &lt;em&gt;The Wasteland&lt;/em&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;the wasteland
+i t. s. eliot
+if it is a litter box recording
+oliver box recordings are in the public domain
+for more information or to volunteer
+these visits litter box dot org
+according my elizabeth client
+the wasteland
+i t. s. eliot
+section one
+ariel of the dead
+april is the cruelest month
+reading lie lacks out of the dead land mixing memory and designer
+staring down roots with spring rain
+winter kept us warm
+having earth and forgetful snow
+feeding a little life with tribes two birds
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Lots of problems here. We could say that to listen algorithmically is to do entwine signal with noise, and, personally, I think this is great! From an interpretive standpoint, this exposes artifacts from the remaking process and shows how each intervention in the text remakes it. In a deformance theory of interpretation, you cannot work with a text without changing it, and the same is true of audio. In this case, the object literally transforms. Also note that multiple recordings will be transcribed differently. Every attempt to read the text through Python produces a new text, right in line with the performative interpretations that McGann and Samuels describe. Regional accents would produce new and different texts depending on the program’s ability to map them onto recognized words.&lt;/p&gt;
+
+&lt;p&gt;But you can do much more than just transcribe things with Python. When this package transcribes words, it tags each of the words with a timestamp. So you can disassemble and reassemble the text at will, using these timestamps as hooks for guiding the program. Rather than painstakingly assembling readings by hand, you could search across the recording in the same way that you might a text file. Here is an example of what you can do with one of Audiogrep’s baked in functions - you can create supercuts of a single word or cluster of related words:&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/assets/mp3s/nemla/voice-sound-supercut.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+	&lt;source src=&quot;/assets/ogg/nemla/voice-sound-supercut.ogg&quot; type=&quot;audio/ogg&quot; /&gt;Your browser does not support this audio format.
+&lt;/audio&gt;
+
+&lt;p&gt;Sam Lavigne has other examples of similar audio mashups on &lt;a href=&quot;http://lav.io/2015/02/audiogrep-automatic-audio-supercuts/&quot;&gt;his site&lt;/a&gt; describing what you can do with Audiogrep. In this case, I’ve searched across all the recordings for instances of “sound” and “voice” and mashed up all those instances. You can also use regular expressions to search, allowing for pretty complicated ways of navigating a recording. Keep in mind that this is only searching across the transcriptions, which we already noted were inaccurate. So it is proper to say that this method is not telling you something about the text so much as about the recordings themselves. The program is producing a performative reading of what it understands the texts behind the audio to be. The script allows you to compare multiple recordings in a particular way that would be pretty painstaking to do by hand, but the process is imperfect and prone to error. Still, I find this to be a useful tool for collating the intonations and cadences of different readers. I am particularly interested in how amateur readers perform and re-perform the text in their own unique ways. This method allows me to ask, for example, whether all readers sonically interpret a particular line in the same or different ways.&lt;/p&gt;
+
+&lt;p&gt;You can also have the program create your own, new sound artifacts drawing upon the elements of the originals. Since we have all the transcriptions, we can also create performative readings of our own. Rather than getting all instances of one word, we can put together a new text and have it spoken through the individual sound clips drawn from our input. Before playing the result, read through what I wrote.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Approaching sound in this way is a way for our students to reconstitute their own ideas through the very sound artifacts that they are studying. In so doing, they learn to consider them as sound, as material objects that can be turned over, re-examined, disrupted, and reassembled. But look at how much is gone. How much gets lost. The recording is notable for its absences, its gaps.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That should give you a hint about what kind of recording is about to come out. What follows is the program’s best attempt to recreate my passage using only words spoken by LibriVox readers as they perform Eliot’s text.&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/assets/mp3s/nemla/speaking-with-text.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+	&lt;source src=&quot;/assets/ogg/nemla/speaking-with-text.ogg&quot; type=&quot;audio/ogg&quot; /&gt;Your browser does not support this audio format.
+&lt;/audio&gt;
+
+&lt;p&gt;The recording itself performs the idea, which is that working in Python in this way produces a reading that is somewhat out of control of the user. You cannot really account ahead of time for what will be warped and misshaped, but some distortion is inevitable. By passing the program the passage, it will search through for instances of each word and try to reassemble them into a whole. The reading becomes the recording. But we are asking the computer to do something when it does not have all the elements it needs to complete the task - we have asked it build a house, but we have given it no material for doors or windows. The result is a garbled mess, but you can still make out a few words here and there that are familiar. We hear a few things that are recognizable, but we also get a lot of silences and noise, what we might think of as the frictions produced by the gaps between what the script recognizes correctly and what it does not. The result is sound art as much as sound interpretation.&lt;/p&gt;
+
+&lt;p&gt;One last one. This one is a bit frightening.&lt;/p&gt;
+
+&lt;audio controls=&quot;&quot;&gt;
+	&lt;source src=&quot;/assets/mp3s/nemla/demon-voice.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+	&lt;source src=&quot;/assets/ogg/nemla/demon-voice.ogg&quot; type=&quot;audio/ogg&quot; /&gt;Your browser does not support this audio format.
+&lt;/audio&gt;
+
+&lt;p&gt;While trying to mash up all the silences in the recording to get a supercut of people breathing, I made a conversion error. Because of my mistake, I accidentally dropped a millisecond every five or six milliseconds in the recording rather than dropping only the pieces of spoken word. From this I learned how to make any recording sound like a demon. I think moments of serendipity like this are crucial, because they expose the recording as a recording. This effect almost sounds analogous to the sort of artifacts that might get accidentally created in the recording process. The process of approaching the recording leaves nothing unchanged, but, if we are mindful of these transformations, we can use them in the service of discovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide17.jpg&quot; alt=&quot;reviewing what you can do with Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, to review: you can use Python to create supercuts of particular words, to perform readings of a text, to expose artifacts from the recording and transcription process, or to create demons. So my assignment for python might go something like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide18.jpg&quot; alt=&quot;sample (joke) assignment with Python audio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Take some recordings and play around. I think you get the most out of a research method like this by letting the praxis generate the theory. Then let the outcomes reflect and revise the theory. Your students can serendipitously learn new things from these sorts of experiments, even if they might seem silly. Instead of shying away from the failures involved in transforming sound recordings into transcriptions and back again, I propose that we instead take a Joycean approach that “errors are volitional and are the portals of discovery.” The exercise could ask you to consider the traces of digital remediation that are present in the artifacts themselves. Or, it could generate a discussion of regionalism and accents of the Librivox participants that threw the transcriber off. To go further (on the excellent question/suggestion of a NEMLA audience member), this process could expose the fact that, in transcribing audio, the program favors particular pronunciations and silences those voices who do not accord with its linguistic sense of “proper” English. You might get a new sense of the particular vocabulary of recorded words in a text, and what it leaves out. Or you might get a renewed sense of how interpretation is a two-way street that changes our texts as we take them in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/nemla/slide19.jpg&quot; alt=&quot;pros and cons of using python for this&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So Python offers some robust ways of working with audio through some packages that are ready to go. This lets you scale up quickly and try new things, but it is worth noting that these methods require far more technical overhead than using Audacity. For this reason, I mentioned training wheels above. Depending on your course, it might be too much to ask students to program in Python from scratch for an assignment like this. So you might offer them starter functions or detailed guides so they do not need to implement the whole thing themselves. The hands-off approach here might be more than some instructors or researchers are willing to allow. Furthermore, while I do think these methods are appropriate for scaling up an examination of audio recordings to compare many different audio artifacts, there are &lt;a href=&quot;https://github.com/jiaaro/pydub/issues/135&quot;&gt;important limitations&lt;/a&gt; in the Python audio packages that, without significant tinkering, limit the size of the audio corpus you can work with.&lt;/p&gt;
+
+&lt;p&gt;For me, though, the possibilities of these approaches are generative enough to work around these limitations. Methods like these are useful for exposing students to sound archives as more than just pieces of cultural history but also as materials to be used, re-used, and remixed into their own work. I have deliberately chosen as my examples here only recordings of texts as given by amateur readers to suggest that these materials have always been performed and re-preformed. The assignments above ask students to place themselves in this tradition of recreation, and the approach invites them to view these interventions with a sense of exploration and humor.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

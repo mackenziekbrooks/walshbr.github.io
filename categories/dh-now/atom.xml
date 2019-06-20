@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dh now | Brandon Walsh]]></title>
+  <link href="http://walshbr.com/categories/dh-now/atom.xml" rel="self"/>
+  <link href="http://walshbr.com/"/>
+  <updated>2019-06-20T19:28:02+00:00</updated>
+  <id>http://walshbr.com/</id>
+  <author>
+    <name><![CDATA[{"name"=>"Brandon Walsh", "url"=>"https://twitter.com/mdo", "email"=>"walsh@virginia.edu"}]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thirteen Oblique Strategies for Digital Pedagogy]]></title>
+    <link href="http://walshbr.com/blog/oblique-digital-pedagogy/"/>
+    <updated>2019-04-25T09:03:00+00:00</updated>
+    <id>http://walshbr.com/blog/oblique-digital-pedagogy</id>
+    <content type="html"><![CDATA[<p><img src="/assets/images/oblique/oblique.jpg" alt="Oblique Strategies card and deck" style="max-height:50%; margin-left: auto; margin-right:auto;" /></p>
+
+<p><em>Crossposted to the <a href="https://scholarslab.lib.virginia.edu/blog/thirteen-oblique-strategies-for-digital-pedagogy/">Scholars’ Lab blog</a></em></p>
+
+<p>When I sat down to write this post I had no ideas. That’s probably inevitable, given the year of blogging challenge that we’re undertaking in the Scholars’ Lab. The whole point is to write often and frequently, that there is value in a steady stream of thoughts rather than waiting for the perfect blog post, and that regular writing makes the whole thing easier. Still, all those good intentions didn’t help me as I struggled to put text to blank page. As I often do in those situations I got out a deck of cards and started playing.</p>
+
+<p>I’ve been obsessed with <a href="http://www.rtqe.net/ObliqueStrategies/"><em>Oblique Strategies</em></a> for years now. If you’re not familiar, <em>Oblique Strategies</em> is a deck of cards published by Brian Eno and Peter Schmidt that aims to offer short, pithy suggestions for getting around creative dilemmas. The idea behind them is that the serendipity of drawing a mysterious phrase from the deck will help disrupt any blocks you might have moving forward. I’ve got a stack of them that I keep on my desk, and it’s a comfort to know that I’ve always got a wrench to throw in the gears at any given time. This morning as I flipped through the deck for inspiration these were the cards that came up first:</p>
+
+<ul>
+  <li>When is it for?</li>
+  <li>Use an old idea</li>
+  <li>Turn it upside down</li>
+  <li>Once the search is in progress, something will be found</li>
+  <li>Humanize something free of error</li>
+</ul>
+
+<p>A lot there! Surely, somewhere in there, I could find material for a successful blog post on digital pedagogy, the subject I’ve been trying to focus on with these regular posts. I did, and I could. But the activity interested me more: how could these cards - the idea of them more so than any one phrase on them - inform teaching within the field of DH more generally?</p>
+
+<p>Of course, I’m not the first one to think about how <em>Oblique Strategies</em> might apply to DH. Mark Sample’s keynote for the first annual <a href="https://iliads.org/">Institute for Liberal Arts Digital Scholarship</a> took up this topic. In “Your Mistake was a Vital Connection: Oblique Strategies for the Digital Humanities,” Sample does a fantastic job articulating the potential for the deck to inspire digital humanities research and pedagogy. Sample advocates not just using the deck as a means to an end - he suggests making serendipity the process and outcome itself. The deck can be quirky way to step over difficulty and get back to the serious business of doing work, but it can also offer a reconsideration of what the work could look like in the first place.</p>
+
+<p>Sample frames using <em>Oblique Strategies</em> in DH research and pedagogy as a question of embracing serendipity as a methodology. This seems to me to be right and correct, but his piece also makes me want to think further about how <em>Oblique Strategies</em> might offer ways for thinking through digital pedagogy in particular. Besides shuffling up any of those cards and thinking about any specific aphorism’s applicability to teaching in a DH context, what might a larger approach to digital pedagogy look like when informed by oblique strategies? Sample offers serendipity as a way into the question, but this is only one to think about the cards. After all, embracing chance as a methodology involves releasing something else - control.</p>
+
+<p>Take the way Sample offers the same question I just posed: “How might oblique strategies not only be another way to work in general, but specifically, another way to work with the digital scholarship and pedagogy we might otherwise more comfortably approach head-on, as Brian Eno put it.” This reading frames use of the cards as a question of directionality but also of power - rather than assert power, the cards seem to say, give yourself over to the whims of chance, let your creative faculties engage, and step in from the side. In order to play the game as invited by <em>Oblique Strategies</em>, you have to first accept you might not have all the answers.</p>
+
+<p>For me, this question of authority is the clearest link between the deck and how I might apply it in the DH classroom. For me, good digital humanities teaching is always about unsettling authority in the classroom. When <a href="http://walshbr.com/blog/co-teaching/">digital humanists co-teach courses</a>, they model how no one person has all the answers. When we encourage process and reflections on failure as important scholarly outputs, we encourage students to give themselves over to a more humane understanding of research. When we counsel students on imposter syndrome, we directly encounter the idea of the authority. There are more specific, personal implementations for me as well. When I run a class, I tend to ask more questions than I offer answers, and my ultimate goal is for the students to recognize that their own contributions to discussion can often be more valuable than mine.</p>
+
+<p>All of this makes me want to ask: how can <em>Oblique Strategies</em> encourage a more student-centered pedagogy? How could we use the ethos of the cards to disrupt vectors of power in the classroom and create a more meaningful, inclusive teaching environment? What about this would be specific to <em>digital</em> pedagogy? In the spirit of what I’ve described above, I won’t offer answers (yours would be as meaningful as mine). Towards the end of Sample’s blog post he shares together a <a href="http://www.samplereality.com/obliquedh/obliquedh.html">playful tool for generating your own oblique strategies for digital humanities</a>. I thought I might take a similar approach, offering a few elliptical statements on how we might approach digital pedagogy obliquely in the aphoristic style of <em>Oblique Strategies</em>. I had originally intended to give brief glosses about how they might be interpreted, but I think that gets away from the spirit of the thing. In a riff on Wallace Stevens’ “Thirteen Ways of Looking at a Blackbird,” I’ll give thirteen, lest any one appear to be more important than the others:</p>
+
+<p>Thirteen Oblique Strategies for Digital Pedagogy</p>
+
+<ol>
+  <li>Create &lt;-&gt; consume</li>
+  <li>Analog digital</li>
+  <li>Interaction over interface</li>
+  <li>Displace authority</li>
+  <li>Questions</li>
+  <li>Allow for gaps</li>
+  <li>Process product</li>
+  <li>People first</li>
+  <li>Iterate</li>
+  <li>Cultivate imposterdom</li>
+  <li>Design Design</li>
+  <li>Can you fail?</li>
+  <li>Disrupt / connect</li>
+</ol>
+
+<p>Of course, maybe the best oblique strategy would be to hand the students a blank deck with some colored pencils and ask them to draw for you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Workshop on Reading with Command Line]]></title>
+    <link href="http://walshbr.com/blog/teaching-and-reading-with-command-line/"/>
+    <updated>2019-02-27T08:14:00+00:00</updated>
+    <id>http://walshbr.com/blog/teaching-and-reading-with-command-line</id>
+    <content type="html"><![CDATA[<p><em>Crossposted to the <a href="https://scholarslab.org/blog/workshop-on-reading-with-command-line">Scholars’ Lab blog</a></em></p>
+
+<p>Alison Booth and I are co-teaching a graduate course this semester on Digital Literary Studies. As a part of the course, we’re having a series of technical workshops - command line, Python, text analysis, encoding, and markup. The scheduling worked out such that these workshops wound up being on Wednesdays, with the discussions of critical theory on digital humanities and literary method mostly on Mondays. That’s all fine and good, but I worried that neatly dividing the class out in that way would create a divide between the one day of the week when the students were actively discussing the material in the course and the other when they were mostly in hands-on workshops. Rather than having a hacking day and a yacking day, I wanted to see what I could do to create an environment for hack-yacking. So when I taught the first workshop on command line, I wanted to try something slightly different from what I normally do by making more room for discussion. I wanted to bring the Monday readings and conversations back into the Wednesday workshops.</p>
+
+<p>Teaching programming well is very difficult. An easy, low-hanging fruit way to get the material across to your students is to connect your laptop and type in front of the students, explaining your keystrokes as you go and asking them to mirror your actions. Another approach I’ve seen (and used) uses slides to do something similar - sharing code examples and interspersing theoretical concepts as you go. Both of those approaches are all to the good, but they feel a bit too much like lecturing to me. I was trained as a teacher of English literature, which means that my bread and butter is the seminar. My approach to the discussion seminar has always been to act as something of a void in the center of the class, asking questions that get the students to engage with the material and each other more than with me. Lecturing has its place, I’m sure, but it generally makes me uncomfortable and doesn’t reflect the kind of pedagogy I value. So when teaching this workshop on command line I wanted to push myself a little more to see how much discussion I could incorporate into a technical skills workshop. How could I use this experience to help the students begin to think about technology as something that they could engage critically with? as something that was not so alien from their normal work of thoughtful, critical discussion?</p>
+
+<p>My goals for the seventy-five minute session, then, were as follows:</p>
+
+<ul>
+  <li>Introduce the concept of the graphical user interface (GUI)</li>
+  <li>Introduce the concept of the command line</li>
+  <li>Give practice with the command line</li>
+  <li>Use the command line to do something that connected with the discussion we had been having elsewhere in the course</li>
+</ul>
+
+<p>The overriding concern for me was to communicate the technical skills the students needed while not making it a “watch what I type” workshop. I wanted discussion and engagement to be the main priority.</p>
+
+<p>To start off, I shared several different images of graphical user interfaces like this one.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/liewcf/14123978540" title="LENOVO Yoga Tablet 8"><img src="https://farm4.staticflickr.com/3710/14123978540_2e09c97bbd_k.jpg" width="2048" height="1365" alt="LENOVO Yoga Tablet 8" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>I began by simply asking the students to describe what they saw, framing the activity as continuous with their usual practices of analyzing prose, poetry, or photographs. In the same way that any piece of a text or image can be interpreted and described, so too can technology be subjected to the same analysis. This component of the workshop was inspired by <a href="http://www.erinroseglass.com/">Erin Rose Glass</a>. When she visited the Scholars’ Lab last semester for a talk on surveillance capitalism, she asked the audience to close read the Microsoft Word interface, and I thought the move did a great job of defamiliarizing an everyday piece of technology and subjecting it to critique. In this case, I asked my students a series of questions:</p>
+
+<ul>
+  <li>What kind of assumptions does the GUI make of its users?</li>
+  <li>What kind of an experience does it want you to have?</li>
+  <li>How does it structure that experience?</li>
+  <li>What kind of audience does it have in mind?</li>
+</ul>
+
+<p>These provocations led to an interesting conversation about accessibility, design, and assumed expertise. I especially wanted the students to note how the GUI makes immediately apparent a range of options to the user. But those options are also limited. The interface sacrifices possibility for practicality, and it can never give you every possible option. This discussion set us up well for the next image I presented to them - a terminal window.</p>
+
+<p><img src="/assets/images/terminal.jpg" alt="terminal window" /></p>
+
+<p>Again, I paused for discussion, asking questions that directed the students to the lack of clearly visible options in the terminal and how this suggested an assumption that its users would have a certain level of expertise. For better or for worse, it assumes that you know what you’re doing. I could have just told the students all this, of course, but I wanted them to arrive at these ideas themselves. So I mostly framed the activity with questions and helped to direct discussion, just as I would in directing close reading of a passage in a novel. In some small way, I hoped the activity would show them that the close reading and analytical skills they developed in other English classes would still be applicable here, even though the objects of study might be different and even though they might feel a bit at sea.</p>
+
+<p>With some sense of what the command line was, the next phase of the workshop took the students through a variety of commands with the terminal. This component of the class felt the most like a typical introduction to the terminal in that I offered a command, executed it, and then we reflected on the results together. The commands we covered mostly focused on navigating the file system and adding or deleting files:</p>
+
+<ul>
+  <li>cd</li>
+  <li>ls</li>
+  <li>pwd</li>
+  <li>touch</li>
+  <li>rm</li>
+  <li>mkdir</li>
+  <li>cp</li>
+  <li>mv</li>
+  <li>man</li>
+</ul>
+
+<p>Nothing too fancy or tricky. From a practical standpoint, the students needed to get the terminal under their fingers so that they’d be prepared to work with it for the rest of the course. As preparation for this piece, we had the students work through the <a href="https://learnpythonthehardway.org/book/appendixa.html">Command Line Crash Course</a> from <a href="https://learnpythonthehardway.org/">Learn Python the Hard Way</a>. So the workshop was not their first moment experiencing the terminal, and I could review these pieces quickly before trying to engage the students further.</p>
+
+<p>One easy way to try to bridge the gap between our discussions of readings and our workshop on the terminal was to drawn in one of the texts that they had read and discussed in a previous session. Superficially, this meant that the students would at least have familiar thematic material in front of them - I selected an essay for us to work with by Katherine Bode titled “<a href="https://read.dukeupress.edu/modern-language-quarterly/article/78/1/77-106/19924">The Equivalence of ‘Close’ And ‘Distant’ Reading; Or, toward a New Object for Data-Rich Literary History</a>.”
+The students had been reading a cluster of essays about distant and close reading, and, for our last activity together, I wanted to defamiliarize the process of reading using the command line to further that discussion. The plan was to have our students use the terminal to “read” that article in a number of different ways. At each step along the way, we stopped to reflect on the kinds of reading enabled or inhibited by the commands.</p>
+
+<p>I put the text of the article in question up on my website ahead of time so that they could easily access it. First I had the students use the curl command to copy down the text of a URL onto their computer (note that I’ve since taken this text down):</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl walshbr.com/materials/bode.txt 
+</code></pre></div></div>
+
+<p>The curl command spits the text of this page onto their screen, which lead to an interesting conversation about this as a type of reading. I asked the students to characterize the kind of reading it did or did not seem to enable. For one, they noted the lack of an ability to paginate through the text, which seemed to imply that the command was meant for readers that planned to take in the text all at once. As in, curl might be meant for machines using a text as data rather than a thing to be read in a more humanistic sense.</p>
+
+<p>To ensure that we all had the necessary materials, we grabbed that same text and sent it into a text file on our computer:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ curl walshbr.com/materials/bode.txt &gt; bode.txt
+</code></pre></div></div>
+
+<p>This simple command allowed us to talk about how to get web texts and pages onto your computer, gave us occasion to discuss those situations in which you would want to do so, and began a discussion about the kinds of reading possible in different interfaces for reading texts. We then moved along to a couple of different commands for getting text out of a file and onto your screen using the command line.</p>
+
+<p>First, we got all of the text at once.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cat bode.txt
+</code></pre></div></div>
+
+<p>Second, we got a version that would allow us to proceed through the text page by page.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ less bode.txt
+</code></pre></div></div>
+
+<p>These commands led to some good reflections on the embodied experience of paging through a physical book with your hands as opposed to using the space bar to do a similar activity. We also talked about the different kinds of reading that we might want to carry out, both in general and in digital literary studies. We don’t engage in texts the same way every time we use them, and these restrictive modes of reading foreground that. In one great moment, a student realized that he couldn’t get out of the interface created by the less command - “I can’t stop paging! I’m trapped in the text!”</p>
+
+<p>From there, we used the terminal to search for particular words (the word “reading” in this case):</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ grep reading bode.txt
+</code></pre></div></div>
+
+<p>And then we counted the number of times a particular word occurred in our text:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ grep reading bode.txt -c
+</code></pre></div></div>
+
+<p>By searching for particular words relevant to the themes of the text, we had a good discussion about the point at which characters and words on a page become meaningful. In particular, the students noticed that, for a computer, capitalization matters in a way that it does not for a human reading a document. They inferred the differences between tokens and types, the difference between any particular occurrence of a sequence of characters and that word as a unique vocabulary unit. In order to really find out how often the term “reading” appeared in the text, the students realized they would need to normalize everything by converting it to lowercase.</p>
+
+<p>I’ve done workshops on the terminal in the past, but this was the first one where I tailored the commands we would be practicing to the subject-matter at hand. Besides the basics of how to interact with the file system, we really only worked with commands relevant to getting and examining textual data. The workshop helped the students come to an understanding that computers read quite literally, with no context or knowledge by default. Later on, the students would find these suspicions corroborated in a reading by Johanna Drucker on “Why Distant Reading Isn’t,” where she suggests that computational reading might be the closest reading of all. Using the terminal as a point of entry into those conversations meant that the students could find their own way to these concepts. In the future I’ll keep this sort of discipline-specific approach to teaching technical skills in mind. It worked well for making the material more immediately relevant and accessible to the students than it might have been otherwise.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Praxis and Scale: On The Virtue of Small]]></title>
+    <link href="http://walshbr.com/blog/praxis-and-scale-on-the-virtue-of-small/"/>
+    <updated>2018-06-15T09:26:00+00:00</updated>
+    <id>http://walshbr.com/blog/praxis-and-scale-on-the-virtue-of-small</id>
+    <content type="html"><![CDATA[<p><em>The following is a version of my talk for DH2018 that will be given as a part of a roundtable on Digital Humanities Pedagogy and Praxis. Participants on the panel responded to a <a href="http://praxis-network.org/dh2018/">CFP</a> marking five years since we launched the <a href="http://praxis-network.org/">Praxis Network</a>.</em></p>
+
+<p><img src="/assets/images/praxis-and-scale/1.jpeg" alt="title slide" /></p>
+
+<p>I am Brandon Walsh, the Head of Graduate Programs at the Scholars’ Lab in the University of Virginia Library in the United States. Today I want to talk about a tension I see in DH pedagogy between the hands-on, student-driven instruction that we’re discussing here as part of the Praxis Network and the scale at which we can offer it. Can we take what started small and scale it up in an ethical and informed way? In particular, I want to suggest that “small” investments in pedagogy driven by students are worth it, that we should resist uncritical calls to scale up the reach of our praxis, and that we can best measure the growth of our programs by the degree to which our students are empowered to become engaged, generous teachers in their own right.</p>
+
+<p><img src="/assets/images/praxis-and-scale/2.jpeg" alt="praxis program summary" /></p>
+
+<p>My own local context for this talk is the Scholars’ Lab’s <a href="http://praxis.scholarslab.org/">Praxis Program</a>, which offers a targeted digital humanities injection during the early years of a student’s graduate work. In the Praxis Program each year, staff and faculty work alongside a student cohort to theorize a new digital intervention and to train the students to implement it themselves. We shift from a series of workshops and discussions in the fall semester to a lab model in the spring, from the staff in front of the room to all of us working together to get a thing done. Funding for the program comes from the library in the form of teaching releases for the students, and I’m happy to talk more about these practical details in the Q&amp;A. The program aims to equip graduate students with the skills and ethos necessary to thrive when carrying out collaborative, open work that might happen on or off the tenure track, and, drawing upon the pedagogical theories of Cathy Davidson, Paolo Freire, Bethany Nowviskie, and others, we do this by putting the students in charge, allowing them as much as possible to decide what they work on and how they’ll work on it.</p>
+
+<p>This panel invites us to reflect on how student programs like these have changed in the past several years, on their triumphs and difficulties. Now in its seventh year, we measure the Praxis Program’s success by a number of metrics - exit interviews, job placements, future awards received by our alumni, and publications.</p>
+
+<p><img src="/assets/images/praxis-and-scale/3.jpeg" alt="praxis projects slide" /></p>
+
+<p>We’ve assembled a <a href="http://praxis.scholarslab.org/projects">series of projects</a> of varying shapes and sizes, conceived and developed by the students themselves and with various afterlives, and a host of alumni who have gone on to build on their time with us. But we sometimes get questions or comments about the program’s scale.</p>
+
+<p><img src="/assets/images/praxis-and-scale/4.jpeg" alt="scale slide with image of empty chairs" /></p>
+
+<p>Each cohort consists of six students. Pretty small compared to a traditional course that might engage a single instructor, and, what’s more, this program draws in virtually all of our staff at one time or another. That is a significant investment of resources in a small group of students each year. Over the years we’ve been asked about the limits of the model from a number of people, inside and outside UVA. Can we have a second cohort of students each year? Could we take the model and grow it?</p>
+
+<p>They’re reasonable asks, but they raise a number of issues for me that I hope might be useful for any student program. The first is simple – can a model like this grow? Although we have some <a href="http://praxis.scholarslab.org/resources/">recurring units, lessons, and resources</a> each year, the student-driven nature of the Praxis Program requires us to embrace the unexpected. <a href="http://reveal.scholarslab.org/">This last year</a>, for example, we started out with one idea but reversed course and rebuilt the curriculum based on the unfolding interests of our students.</p>
+
+<p><img src="/assets/images/praxis-and-scale/5.jpeg" alt="image of Praxis resources and curriculum published online" /></p>
+
+<p>This requires a serious commitment of time and resources - it can be difficult to predict exactly which staff members will be the primary points of contact for the project, and responsibilities might change unexpectedly. There is also a question of capacity. We are limited in the number of students that we can maintain at any one time and still carry out our other obligations as a library unit. I should note here that there are powerful examples of people doing this kind of engaged student work on a large scale - the <a href="https://www.hastac.org/groups/hastac-futureed">#FutureEd initiative</a> by Davidson and others is a clear example, and instructors in the sciences are often already working at a much larger scale when they try to implement similar approaches in their lecture courses. Numbers might be part of a necessary approach to your own critically engaged pedagogy.</p>
+
+<p>Another question - should it grow? Perhaps rather than expanding a single working model, resources might be better served in other areas, other programs, other people - more on that in a moment. For our group, at least, keeping a smaller program that centers project-based education is a strategic investment in the individual as a meaningful point of intervention. The core of our work, more than any digital project, is the people, who we try empower to act as DH professionals and pay their lessons forward from day one. Far from limiting our impact, I think that deliberately staying small attempts to do more with less, to invest in the futures of these students as they become teachers themselves. We believe in the grassroots impact these young people can have on the field and on their communities.</p>
+
+<p>And finally - how should it grow? Most importantly, to me at least, is that we continue to develop educational experiences that are as equitable and just as possible. In my experience, conversations around scale aren’t usually met with offers for more resources. And we should not let calls to grow tempt us into uncritically adopting volunteer labor or unpaid internships. <a href="http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/">UCLA’s Student Collaborator’s Bill of Rights</a> is a touchstone here. Students might be willing to volunteer their time with you for the sake of the experience, but our position is that we should resist those offers. There is plenty of evidence to suggest that allowing such unpaid labor reinforces socioeconomic and racial disparities in the workforce. We try not to grow beyond our ability to fund our students.</p>
+
+<p>I want to pause momentarily to recognize that this is a fairly privileged conversation. The Scholars’ Lab programs are in the fortunate position to be well funded at the time of this writing, and (even at my own institution) there are many units and individual people tasked with raising programs from the ground on little to no funding. I’m sure there are some of you in the room in that same position. My colleagues and I are fortunate. Ours is not the only way to shape a program, and it’s certainly not the best one for every institutional context. I hope, however, that this conversation might offer those of you making difficult decisions about resources a model – or, at least, a series of ideas – to consider. You don’t need an extensive reach or a robust cohort of students to make something meaningful happen. If you can fund one student – that is worth doing. Embrace the fact that you can engage that one person in the important work of developing and growing your program. Do what you can with what you can, but, again, we should collectively resist calls to grow student programs beyond our capacity to resource and sustain them.</p>
+
+<p>I think a lot about the disparate amounts of privilege some of our students enjoy, and much of our effort is spent trying to scale our impact in ways that broaden access even though we can’t afford a deep dive with many students. This means offering a diverse range of ways in for students, with other <a href="http://scholarslab.org/graduate-fellowships/">opportunities</a> for engaging our community that might be more targeted and more sustainable. It also means engaging alumni of the Praxis Program in our other initiatives, folding their strengths into our pool of resources and giving them opportunities to explore themselves as teachers. We try to engage these students who have been able to access our resources, time, and knowledge in helping their colleagues who might not have benefited from the same.</p>
+
+<p><img src="/assets/images/praxis-and-scale/6.jpeg" alt="image of LAMI program fellows" /></p>
+
+<p>Since the Praxis Program’s inception, for example, we have partnered with our campus’s version of the <a href="https://graddiversity.virginia.edu/U.Va.LAMI">Leadership Alliance Mellon Initiative (LAMI)</a> to pilot a complimentary program in DH and library research methods for undergraduates from underrepresented communities with the assistance of our Praxis alumni. The undergraduates taking part in this program are thinking about graduate school, and our contribution is to give them just a taste of what research at that level might look like for them. Our Praxis alumni lead a workshop for them, participate in discussions, and also show what the next phase of life after undergraduate can look like.</p>
+
+<p>I’ve talked a bit about our past and present. A single thought on the future of our programs it would be this - I think it is incumbent upon us to turn our work outwards and think about the impact our students can have on a broader community beyond our institution - that’s where the Scholars’ Lab has been heading, and I’d like to continue in that direction. In the direction of out rather than in.</p>
+
+<p><img src="/assets/images/praxis-and-scale/7.jpeg" alt="List of student workshops at Washington and Lee" /></p>
+
+<p>One way in which we’ve tried to do this is to work more closely with institutions in the region. We’ve partnered with Washington and Lee for a few years now to engage students as guest DH workshop leaders on their campus, and we’re soon hoping to expand to University of Richmond as well. We ask our students to blog about these workshops, and we have been accumulating a <a href="https://digitalhumanities.wlu.edu/blog/category/uva-collaboration/">list of these resources</a> for others to learn from or build upon. Similarly, I would like to extend the work of our students to the local Charlottesville community, <a href="https://news.library.virginia.edu/2018/06/18/library-receives-grant-from-lyrasis-for-digital-collecting-in-times-of-crisis/">something the Lab has been increasingly engaged in</a>, but I would like us to be more deliberate about incorporating students as we do so. We can continue to empower student research but do so as part of the Lab’s mission of promoting access, sharing resources, and advancing social justice.</p>
+
+<p><img src="/assets/images/praxis-and-scale/8.jpeg" alt="Title slide redone" /></p>
+
+<p>If I have one point today point it is this - there are limits to the number of deep dives you can take. But they can serve as excellent starting points for other schemes - you can do a lot with a little. Our former director, Bethany Nowviskie, once used the phrase “too small to fail” to describe our approach to graduate education. Small can still have a big impact. At the Scholars’ Lab, I’d like our own particular brand of small to be public, engaged, and local, empowering students who feel confident but also compelled to give back to their peers, students, and neighborhoods. Weighing ourselves in this way, by the degree to which we help to democratize and provide access to these sorts of methods, questions, and technologies ultimately feels more meaningful than doing so by the number of students we reach.</p>
+
+<p>References and Further Reading</p>
+
+<ul>
+  <li>A Student Collaborators’ Bill of Rights. University of California Los Angeles Center for Digital Humanities. <a href="http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/">http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/</a></li>
+  <li>#FutureEd. Humanities, Arts, Science, and Technology Alliance and Collaboratory. <a href="https://www.hastac.org/initiatives/futureed">https://www.hastac.org/initiatives/futureed</a></li>
+  <li>Davidson, C. (2017). The New Education: How to Revolutionize the University to Prepare Students for a World In Flux. New York, NY: Basic Books.</li>
+  <li>Freire, P. (1970). Pedagogy of the Oppressed. New York, NY: Bloomsbury Academic.</li>
+  <li>Nowviskie, B. (2011). “Praxis and Prism.” <a href="http://nowviskie.org/2011/praxis-and-prism/">http://nowviskie.org/2011/praxis-and-prism/</a>
+———. (2012). “Too Small To Fail.” <a href="http://nowviskie.org/2012/too-small-to-fail/">http://nowviskie.org/2012/too-small-to-fail/</a></li>
+  <li>Rogers, K. (2015). “Humanities Unbound: Supporting Careers and Scholarship Beyond the Tenure Track.” Digital Humanities Quarterly 9.1.</li>
+  <li>The Praxis Program. University of Virginia Library’s Scholars’ Lab. <a href="http://praxis.scholarslab.org">http://praxis.scholarslab.org</a>.</li>
+  <li>The Praxis Network. University of Virginia Library’s Scholars’ Lab. <a href="http://praxis-network.org/">http://praxis-network.org/</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Collaborative Writing to Build Digital Humanities Praxis]]></title>
+    <link href="http://walshbr.com/blog/collaborative-writing-to-build-digital-humanities-praxis/"/>
+    <updated>2017-08-04T14:40:00+00:00</updated>
+    <id>http://walshbr.com/blog/collaborative-writing-to-build-digital-humanities-praxis</id>
+    <content type="html"><![CDATA[<p><em>[The following is the rough text of my short paper given at the 2017 Digital Humanities conference in Montréal.]</em></p>
+
+<p><img src="/assets/images/collaborative-writing/1.jpg" alt="title slide" /></p>
+
+<p>Thanks very much for having me today! I’m Brandon Walsh, Head of Graduate Programs in the Scholars’ Lab at the University of Virginia Library. I’ll be talking a bit today about “Collaborative Writing to Build Digital Humanities Praxis.” Since the subject here is collaboration I wanted to spend a few minutes here on my collaborators.</p>
+
+<p><img src="/assets/images/collaborative-writing/2.jpg" alt="thank you slide" /></p>
+
+<p>This work was begun at my previous position at Washington and Lee University’s library. My principal collaborator here is and was Professor Sarah Horowitz, from Washington and Lee University. We conceived the project together, co-taught the associated course, and her writing figures prominently on the project I will describe. The other names here are individuals, institutions, or projects who figure explicitly in the talk, whether they know it or not. You can find a Zotero collection with the resources mentioned during the talk <a href="http://goo.gl/2CuWj7">here</a>.</p>
+
+<p>So. To begin. Emergent programs like those associated with the <a href="http://praxis-network.org">Praxis Network</a> have redefined the possibilities for digital humanities training by offering models for project-based pedagogy. These efforts provide innovative institutional frameworks for building up and sharing digital skills, but they primarily focus on graduate or undergraduate education. They tend to think in terms of students. The long-term commitments that programs like these require can make them difficult to adapt for the professional development of other librarians, staff, and faculty collaborators. While members of these groups might share deep interests in undertaking such programs themselves, their institutional commitments often prevent them from committing the time to such professional development, particularly if the outcomes are not immediately legible for their own structures of reporting. I argue that we can make such praxis programs viable for broader communities by expanding the range of their potential outcomes and forms. In particular, I want to explore the potential for collaborative writing projects to develop individual skillsets and, by extension, the capacity of digital humanities programs.</p>
+
+<p><img src="/assets/images/collaborative-writing/3.jpg" alt="coursebook site" /></p>
+
+<p>While the example here focuses on a coursebook written for an undergraduate audience, I believe the model and set of pedagogical issues can be extrapolated to other circumstances. By considering writing projects as potential opportunities for project-based development, I argue that we can produce professionally legible outcomes that both serve institutional priorities and prove useful beyond local contexts.</p>
+
+<p>The particular case study for this talk is an <a href="http://walshbr.com/textanalysiscoursebook">open coursebook</a> written for a course on digital text analysis (Walsh and Horowitz, 2016). In fall of 2015, Professor Sarah Horowitz, a colleague in the history department at Washington and Lee University, approached the University Library with an interest in digital text analysis and a desire to incorporate these methods in her upcoming class. She had a growing interest in the topic, and she wanted support to help her take these ideas and make them a reality in her research and teaching. As the Mellon Digital Humanities Fellow working in the University Library, I was asked to support Professor Horowitz’s requests because of my own background working with and teaching text analysis. Professor Horowitz and I conceived of writing the coursebook as a means by which the Library could meet her needs while also building the capacity of the University’s digital humanities resources. The idea was that, rather than offer her a handful of workshops, the two of us would co-author materials together that could then be used by Professor Horowitz later on. The writing of these materials would be the scene of the teaching and learning. Our model in this regard was as an initiative undertaken by the Digital Fellows at the CUNY Graduate Center, where their Graduate Fellows produce documentation and shared digital resources for the wider community. We aimed to expand upon their example, however, by making collaborative writing a centerpiece of our pedagogical experiment.</p>
+
+<p><img src="/assets/images/collaborative-writing/4.jpg" alt="tech stack" /></p>
+
+<p>We included Professor Horowitz directly in the creation of the course materials, a process that required her to engage in a variety of technologies central to a certain kind of web publishing workflow: command line, Markdown, Git, and GitHub. We produced the materials on a platform called <a href="https://www.gitbook.com/">GitBook</a>, which provides a handy interface for writing that invokes many elements of this tech stack in a non-obtrusive way. Their editor allows you to write in markdown and previews the resultant text for you, but it also responds to the standard slew of MS Word keyboard shortcuts that many writers are familiar with. In this way we were able to keep the focus on the writing even as we slowly expanded Professor Horowitz’s ability to work directly with these technologies. From a writing standpoint, the process also required synthesis of both text analysis techniques and disciplinary material relevant to a course in nineteenth-century history. I provided the former, Professor Horowitz would review and critique as she added the latter, then I would review, etc. The result, I think, is more than either of us could have produced on our own, and we each learned a lot about the other’s subject matter. The result of the collaboration is that, after co-writing the materials and teaching the course together, Professor Horowitz is prepared to offer the course herself in the future without the support of the library. We now also possess course materials that, through careful structuring and selection of platforms, could be reusable in other courses at our own institutions and beyond. In this case, we tried to take special care to make each lesson stand on its own and to compartmentalize each topic according to the various parts of each class workshop. One section would introduce a topic from a theoretical standpoint, the next would offer a case study using a particular tool, and the last would offer course exercises that were particular to our course. We hoped this structuring would make it easy for the work to be excerpted and built upon by others for their own unique needs.</p>
+
+<p><img src="/assets/images/collaborative-writing/5.jpg" alt="table of contents" /></p>
+
+<p>Writing collaborations such as these can fit the professional needs of people in a variety of spaces in the university. Course preparation, for example, often takes place behind the scenes and away from the eyes of students and other scholars. You tend to only see the final result as it is performed with students in a workshop or participants in a class. With a little effort, this hidden teaching labor can be transformed into openly available resources capable of being remixed into other contexts. We are following here on the example of Shawn Graham (2016), who has illustrated through his own resources for a class on <a href="http://workbook.craftingdigitalhistory.ca/">Crafting Digital History</a> that course materials can be effectively leveraged to serve a wider good in ways that still parse in a professional context. In our case, the collaboration produced public-facing web writing in the form of an open educational resource. The history department regarded the project as a success for its potential to bring new courses, skills, and students into the major as a result of Professor Horowitz’s training. The University Library valued the collaboration for its production of open access materials, development of faculty skills, and exploration of workflows and platforms for faculty collaboration. We documented and managed the writing process in a <a href="https://github.com/walshbr/introduction-to-text-analysis">GitHub repository</a>.</p>
+
+<p><img src="/assets/images/collaborative-writing/6.jpg" alt="GitHub repository" /></p>
+
+<p>This versioned workflow was key to our conception of the project, as we hoped to structure the project in such a way that others could copy down and spin up their own versions of the course materials for their own needs. We were careful to compartmentalize the lessons according to their focus on theory, application, or course exercises, and we provided <a href="http://walshbr.com/textanalysiscoursebook/book/conclusion/adapting/">documentation</a> to walk readers through the technical process of adapting the book to reflect their own disciplinary content. We wrote reasonably detailed directions aimed at two different audiences - those with a tech background and those without. We wanted people to be able to pull down, tear apart, and reuse those pieces that were relevant for them. We hoped to create a mechanism by which readers and teachers could iterate using our materials to create their own versions.</p>
+
+<p><img src="/assets/images/collaborative-writing/7.jpg" alt="Adapting the Book" /></p>
+
+<p>Writing projects like this one provide spaces for shared learning experiences that position student and teacher as equals. By writing in public and asking students and faculty collaborators to discuss, produce, and revise open educational resources, we can break down distinctions between writer and audience, teacher and student, programmer and non-programmer. In this spirit, work by Robin DeRosa (2016) with the <a href="https://openamlit.pressbooks.com/">Open Anthology of Earlier American Literature</a> and Cathy Davidson with HASTAC has shown that students can make productive contributions to digital humanities research at the same time that they learn themselves. These contributions offer a more intimate form of pedagogy – a more caring and inviting form of building that can draw newcomers into the field by way of non-hierarchical peer mentoring. It is no secret that academia contains “severe power imbalances” that adversely affect teaching and the lives of instructors, students, and peers (McGill, 2016). I see collaborative writing as helping to create shared spaces of exploration that work against such structures of power. They can help to generate what Bethany Nowviskie (2016) has recently advocated as a turn towards a “feminist ethics of care” to “illuminate the relationships of small components, one to another, within great systems.” By writing together, teams engage in what Nowviskie (2011) calls the “perpetual peer review” of collaborative work. Through conversations about ethical collaboration and shared credit early in the process, we can privilege the voice of the learner as a valued contributor to a wider community of practitioners even before they might know the technical details of the tools or skills under discussion.</p>
+
+<p>Collaborative writing projects can thus serve as training in digital humanities praxis: they can help introduce the skills, tools, and theories associated with the field, and projects like ours do so in public. Productive failure in this space has long been a hallmark of work in the digital humanities, so much so that “Failure” was listed as a keyword in the new anthology Digital Pedagogy in the Humanities (Croxall and Warnick, 2016). Writing in public carries many of the same rewards – and risks. Many of those new to digital work, in particular, rightfully fear putting their work online before it is published. The clearest way in which we can invite people into the rewards of public digital work is by sharing the burdens and risks of such work. In her recent work on generous thinking, Kathleen Fitzpatrick (2016) has advocated for “thinking with rather than reflexively against both the people and the materials with which we work.” By framing digital humanities praxis first and foremost as an activity whose successes and failures are shared, we can lower the stakes for newcomers. Centering this approach to digital humanities pedagogy in the practice of writing productively displaces the very digital tools and methodologies that it is meant to teach. Even if the ultimate goal is to develop a firm grounding in a particular digital topic, focusing on the writing invites students and collaborators into a space where anyone can contribute. By privileging the writing rather than technical skills as the means of engagement and ultimate outcome, we can shape a more inviting and generous introduction to digital humanities praxis.</p>
+
+<p><strong>References</strong></p>
+
+<ul>
+  <li>Croxall, B. and Warnick, Q. (2016). “Failure.” In Digital Pedagogy in the Humanities: Concepts, Models, and Experiments. Modern Languages Association.</li>
+  <li>DeRosa, R. (2016). “The Open Anthology of Earlier American Literature.” https://openamlit.pressbooks.com/.</li>
+  <li>Fitzpatrick, K. (2016). “Generous Thinking: The University and the Public Good.” Planned Obsolescence. http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/.</li>
+  <li>Graham, S. (2016). “Crafting Digital History.” http://workbook.craftingdigitalhistory.ca/.</li>
+  <li>McGill, B. (2016). “Serial Bullies: An Academic Failing and the Need for Crowd-Sourced Truthtelling.” Dynamic Ecology. https://dynamicecology.wordpress.com/2016/10/18/serial-bullies-an-academic-failing-and-the-need-for-crowd-sourced-truthtelling/.</li>
+  <li>Nowviskie, B. (2011). “Where Credit Is Due.” http://nowviskie.org/2011/where-credit-is-due/.</li>
+  <li>———. 2016. “Capacity Through Care.” http://nowviskie.org/2016/capacity-through-care/.
+Ramsay, S. (2010). “Learning to Program.” http://stephenramsay.us/2012/06/10/learning-to-program/.</li>
+  <li>———. 2014. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” In Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee. University of Michigan Press. http://hdl.handle.net/2027/spo.12544152.0001.001.</li>
+  <li>The Praxis Network (2017). University of Virginia Library’s Scholars’ Lab. http://praxis-network.org/.
+Walsh, Brandon, and Sarah Horowitz. 2016. “Introduction to Text Analysis: A Coursebook.” http://www.walshbr.com/textanalysiscoursebook</li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[On Co-Teaching and Digital Humanities]]></title>
+    <link href="http://walshbr.com/blog/co-teaching/"/>
+    <updated>2017-03-22T12:53:00+00:00</updated>
+    <id>http://walshbr.com/blog/co-teaching</id>
+    <content type="html"><![CDATA[<p><em>[Crossposted on the <a href="http://digitalhumanities.wlu.edu/blog/2017/03/23/on-co-teaching-and-digital-humanities/">WLUDH blog</a>.]</em></p>
+
+<p>For me, co-teaching is the ultimate teaching experience. I’ve been fortunate to find several opportunities for it over the years. During graduate school, I co-taught a number of short courses, several DH classes, and a couple workshops. Here at W&amp;L I’ve been able to teach alongside faculty from the history department and the Library. Each experience has been deeply rewarding. These days I’m spending more time thinking about digital humanities from a curricular and pedagogical standpoint, so I wanted to offer a few quick notes on how co-teaching might play a role in those discussions.</p>
+
+<p>I’m sympathetic to arguments against putting two or more people at the front of the classroom. It’s expensive to use two faculty members to teach a single course when one might do, so I can understand how, in a certain logic, the format seems profoundly inefficient. You have a set number of courses that need to be taught, and you need people to teach them. And I have also heard people say that co-teaching is a lot more work than teaching a course solo. I understand these objections. But I wanted to offer just a few notes on the benefits of co-teaching - why you might want to consider it as a path for growing your digital humanities program even in the face of such hesitations. I’ve found that the co-teaching experience fully compliments the work that we do as digital humanists for a number of reasons. I think of co-teaching as a way to make the teaching of digital humanities more fully reflect the ways we tend to practice it.</p>
+
+<p><strong>Co-teaching allows for more interdisciplinary courses.</strong></p>
+
+<p>Interdisciplinarity is hard. By its very nature, it assumes research, thinking, and teaching that lie at the intersections of <em>at least</em> two fields, usually more. In the case of digital humanities, this is exacerbated because the methodologies of the combined fields often seem to be so distinct from one another. Literary criticism and statistical methods, archival research and computer science, literary theory and web design. These binaries are flawed, of course, and these fields have a lot to say to and about each other. But, in the context of teaching digital humanities, sometimes bringing these fields together requires expertise that one teacher alone might not possess. A second instructor makes it easier to bridge perceived gaps in skills or training. And those skills, if they are meant to be taught, require time and energy from the instructors. On a more practical level, it can be profoundly helpful to have one instructor float in the classroom to offer technical assistance while the other leads discussion so as to prevent troubleshooting from breaking up the class. It is not enough to say that interdisciplinary courses need a second instructor. They often require additional hands on deck.</p>
+
+<p><strong>Co-teaching models collaboration for students.</strong></p>
+
+<p>Digital humanities work often requires multiple people to work together, but I’d wager that students often expect there to be a single person in charge of a class. Students might come into the class expecting a lecture model. Or, at the very least, they might expect the teacher to be an expert on the material. Or, they might expect the instructor to lead discussion. These formats are all well and good, and many instructors thrive on these models. I prefer to position my students as equal collaborators with me in the material of the course. We explore the material together, and, even if I might serve as a guiding hand, their observations are just as important as my own. I try to give my students space to assert themselves as experts, as real collaborators in the course. Co-teaching helps to set the stage for this kind of approach, because the baseline assumption is that no one person knows everything. If that were the case, you would not need a second instructor. There is always a second voice in the room. By unsettling the top-down hierarchy of the classroom, co-teaching helps to disperse authority out into other parts of the group. The co-teacher not in charge on a particular day might even be seated alongside the students, learning with them. This approach to teaching works especially well as a vehicle for digital humanities. After all, most digital humanities projects have many collaborators, each of whom brings a different set of skills to the table. No person operates as an expert in all parts of a collaborative project - not even the project manager. Digital humanities work is, by its nature, collaborative. Students should know this, see this, and feel this, and it can start at the front of the classroom.</p>
+
+<p><strong>Co-teaching transfers skills from one instructor to another.</strong></p>
+
+<p>Digital humanities faculty and staff are often brought in to support courses and projects by teaching particular methods or tools. This kind of training can sometimes happen in one-off workshops or in external labs, but the co-teaching model can offer a deeper, more immersive mentoring experience. Co-teaching can be as much for the instruction of the students as it is for the professional development of the teachers. For the willing faculty member, a semester-long engagement with material that stretches their own technical abilities can set them up to teach the material by themselves in the future. They can learn alongside the students and expand their portfolio of skills. At W&amp;L we have had successes in a number of disciplines with this approach - faculty in history, journalism, and French have expanded their skills with text analysis, multimedia design and storytelling, and textual encoding all while developing and teaching new courses. We’ve even managed, at times, to document this process so that we have <a href="http://walshbr.com/textanalysiscoursebook/">demonstrable, professionally legible evidence</a> of the kinds of work possible when two people work together. When both instructors share course time for the entire semester it can help to expand the capacity of a digital humanities program by spreading expertise among many collaborators.</p>
+
+<p>Of course, all of this requires a lot of buy-in, both from the faculty teaching together and from the administration overseeing the development of such courses. You need a lot of people ready to see the value in this process. The particulars of your campus might provide their own limitations or opportunities. Putting together collaborations like these takes time and energy, but it’s worth it. I think of co-teaching as an investment - in the future of the program, the students, and the instructors. What requires two instructors today might, with the right preparation and participation, only require one tomorrow.</p>
+
+<p>In case you want to read more, here are some other pieces on co-teaching from myself and past collaborators (happy to be pointed to others!):</p>
+
+<ul>
+  <li>Sarah Storti - <a href="http://scholarslab.org/digital-humanities/on-co-teaching-and-gratitude/">On Co-Teaching and Gratitude</a></li>
+  <li>Ed Triplett - <a href="http://scholarslab.org/digital-humanities/one-teach-one-drift/">One Teach, One Drift</a></li>
+  <li>Here is another blip from me - <a href="http://scholarslab.org/digital-humanities/washington-and-lee-trip/">Washington and Lee Trip</a></li>
+  <li>And some of my syllabi and materials can be found <a href="http://walshbr.com/pedagogy">here</a> and <a href="https://humanitiesprogramming.github.io/">here</a></li>
+</ul>
+]]></content>
+  </entry>
+  
+</feed>
